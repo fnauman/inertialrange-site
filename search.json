@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About InertialRange Labs AB",
+    "section": "",
+    "text": "InertialRange Labs AB is a consulting company specializing in artificial intelligence solutions. We help organizations transform their operations and decision-making processes through the strategic application of AI technologies."
+  },
+  {
+    "objectID": "about.html#who-we-are",
+    "href": "about.html#who-we-are",
+    "title": "About InertialRange Labs AB",
+    "section": "",
+    "text": "InertialRange Labs AB is a consulting company specializing in artificial intelligence solutions. We help organizations transform their operations and decision-making processes through the strategic application of AI technologies."
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About InertialRange Labs AB",
+    "section": "Our Mission",
+    "text": "Our Mission\nTo empower businesses with innovative AI solutions that drive growth, efficiency, and competitive advantage."
+  },
+  {
+    "objectID": "about.html#our-approach",
+    "href": "about.html#our-approach",
+    "title": "About InertialRange Labs AB",
+    "section": "Our Approach",
+    "text": "Our Approach\nWe believe in:\n\nCollaborative Partnership: Working closely with clients to understand their unique challenges\nPractical Implementation: Delivering solutions that can be effectively integrated into existing workflows\nContinuous Innovation: Staying at the forefront of AI research and development\nEthical AI: Ensuring responsible and transparent use of AI technologies"
+  },
+  {
+    "objectID": "about.html#company-information",
+    "href": "about.html#company-information",
+    "title": "About InertialRange Labs AB",
+    "section": "Company Information",
+    "text": "Company Information\nInertialRange Labs AB\nConsulting Services in Artificial Intelligence\nFor inquiries about our services, please visit our Services page."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to InertialRange Labs AB",
+    "section": "",
+    "text": "InertialRange Labs AB is a specialized consulting company providing cutting-edge AI solutions to help businesses harness the power of artificial intelligence.\n\n\nWe offer comprehensive AI consulting services in four key areas:\n\n\n\nPredict future trends and patterns in your data with advanced forecasting models.\n\n\n\nAccurately categorize and classify data using state-of-the-art machine learning techniques.\n\n\n\nTransform visual data into actionable insights with deep learning-powered image analysis.\n\n\n\nLeverage the power of LLMs for natural language understanding and generation.\n\n\n\n\n\n\nExpertise: Deep knowledge in AI and machine learning technologies\nCustom Solutions: Tailored approaches for your specific business needs\nResults-Driven: Focus on delivering measurable business outcomes\nInnovation: Stay ahead with the latest AI advancements\n\nLearn more about our services →"
+  },
+  {
+    "objectID": "index.html#leading-ai-consulting-solutions",
+    "href": "index.html#leading-ai-consulting-solutions",
+    "title": "Welcome to InertialRange Labs AB",
+    "section": "",
+    "text": "InertialRange Labs AB is a specialized consulting company providing cutting-edge AI solutions to help businesses harness the power of artificial intelligence.\n\n\nWe offer comprehensive AI consulting services in four key areas:\n\n\n\nPredict future trends and patterns in your data with advanced forecasting models.\n\n\n\nAccurately categorize and classify data using state-of-the-art machine learning techniques.\n\n\n\nTransform visual data into actionable insights with deep learning-powered image analysis.\n\n\n\nLeverage the power of LLMs for natural language understanding and generation.\n\n\n\n\n\n\nExpertise: Deep knowledge in AI and machine learning technologies\nCustom Solutions: Tailored approaches for your specific business needs\nResults-Driven: Focus on delivering measurable business outcomes\nInnovation: Stay ahead with the latest AI advancements\n\nLearn more about our services →"
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Our Services",
+    "section": "",
+    "text": "InertialRange Labs AB offers specialized consulting in four core areas of artificial intelligence:\n\n\nTime series forecasting is essential for businesses that need to predict future trends based on historical data.\nOur capabilities include:\n\nSales and demand forecasting\nFinancial market predictions\nEnergy consumption forecasting\nInventory optimization\nSeasonal trend analysis\n\nTechnologies we use: ARIMA, Prophet, LSTM networks, Transformer models, and more.\n\n\n\n\nClassification models help organizations automatically categorize and make decisions based on data patterns.\nApplications:\n\nCustomer segmentation\nFraud detection\nQuality control\nRisk assessment\nSentiment analysis\n\nTechnologies we use: Random Forests, Gradient Boosting, Neural Networks, Support Vector Machines.\n\n\n\n\nComputer vision enables machines to understand and interpret visual information from the world.\nServices:\n\nObject detection and recognition\nImage classification\nSemantic segmentation\nOptical character recognition (OCR)\nVideo analysis\nQuality inspection systems\n\nTechnologies we use: CNNs, YOLO, Mask R-CNN, Vision Transformers, and custom deep learning architectures.\n\n\n\n\nHarness the power of large language models for natural language processing tasks.\nCapabilities:\n\nText generation and summarization\nQuestion answering systems\nDocument analysis and extraction\nChatbots and conversational AI\nContent creation and editing\nMultilingual processing\n\nTechnologies we use: GPT models, BERT, fine-tuning techniques, RAG (Retrieval-Augmented Generation), and prompt engineering."
+  },
+  {
+    "objectID": "services.html#ai-consulting-services",
+    "href": "services.html#ai-consulting-services",
+    "title": "Our Services",
+    "section": "",
+    "text": "InertialRange Labs AB offers specialized consulting in four core areas of artificial intelligence:\n\n\nTime series forecasting is essential for businesses that need to predict future trends based on historical data.\nOur capabilities include:\n\nSales and demand forecasting\nFinancial market predictions\nEnergy consumption forecasting\nInventory optimization\nSeasonal trend analysis\n\nTechnologies we use: ARIMA, Prophet, LSTM networks, Transformer models, and more.\n\n\n\n\nClassification models help organizations automatically categorize and make decisions based on data patterns.\nApplications:\n\nCustomer segmentation\nFraud detection\nQuality control\nRisk assessment\nSentiment analysis\n\nTechnologies we use: Random Forests, Gradient Boosting, Neural Networks, Support Vector Machines.\n\n\n\n\nComputer vision enables machines to understand and interpret visual information from the world.\nServices:\n\nObject detection and recognition\nImage classification\nSemantic segmentation\nOptical character recognition (OCR)\nVideo analysis\nQuality inspection systems\n\nTechnologies we use: CNNs, YOLO, Mask R-CNN, Vision Transformers, and custom deep learning architectures.\n\n\n\n\nHarness the power of large language models for natural language processing tasks.\nCapabilities:\n\nText generation and summarization\nQuestion answering systems\nDocument analysis and extraction\nChatbots and conversational AI\nContent creation and editing\nMultilingual processing\n\nTechnologies we use: GPT models, BERT, fine-tuning techniques, RAG (Retrieval-Augmented Generation), and prompt engineering."
+  },
+  {
+    "objectID": "services.html#get-started",
+    "href": "services.html#get-started",
+    "title": "Our Services",
+    "section": "Get Started",
+    "text": "Get Started\nReady to transform your business with AI? We’re here to help you identify the right solutions for your needs and implement them effectively.\nContact us to discuss how we can help your organization leverage AI technologies."
+  }
+]
