@@ -1,0 +1,44 @@
+---
+title: "Welcome to InertialRange Labs AB"
+---
+
+## Leading AI Consulting Solutions
+
+InertialRange Labs AB is a specialized consulting company providing cutting-edge AI solutions to help businesses harness the power of artificial intelligence.
+
+### Our Expertise
+
+We offer comprehensive AI consulting services in four key areas:
+
+::: {.grid}
+
+::: {.g-col-6}
+#### Time Series Forecasting
+Predict future trends and patterns in your data with advanced forecasting models.
+:::
+
+::: {.g-col-6}
+#### Classification
+Accurately categorize and classify data using state-of-the-art machine learning techniques.
+:::
+
+::: {.g-col-6}
+#### Computer Vision
+Transform visual data into actionable insights with deep learning-powered image analysis.
+:::
+
+::: {.g-col-6}
+#### Large Language Models
+Leverage the power of LLMs for natural language understanding and generation.
+:::
+
+:::
+
+### Why Choose Us?
+
+- **Expertise**: Deep knowledge in AI and machine learning technologies
+- **Custom Solutions**: Tailored approaches for your specific business needs
+- **Results-Driven**: Focus on delivering measurable business outcomes
+- **Innovation**: Stay ahead with the latest AI advancements
+
+[Learn more about our services →](services.qmd)

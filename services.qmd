@@ -1,0 +1,79 @@
+---
+title: "Our Services"
+---
+
+## AI Consulting Services
+
+InertialRange Labs AB offers specialized consulting in four core areas of artificial intelligence:
+
+### Time Series Forecasting
+
+Time series forecasting is essential for businesses that need to predict future trends based on historical data.
+
+**Our capabilities include:**
+
+- Sales and demand forecasting
+- Financial market predictions
+- Energy consumption forecasting
+- Inventory optimization
+- Seasonal trend analysis
+
+**Technologies we use:** ARIMA, Prophet, LSTM networks, Transformer models, and more.
+
+---
+
+### Classification
+
+Classification models help organizations automatically categorize and make decisions based on data patterns.
+
+**Applications:**
+
+- Customer segmentation
+- Fraud detection
+- Quality control
+- Risk assessment
+- Sentiment analysis
+
+**Technologies we use:** Random Forests, Gradient Boosting, Neural Networks, Support Vector Machines.
+
+---
+
+### Computer Vision
+
+Computer vision enables machines to understand and interpret visual information from the world.
+
+**Services:**
+
+- Object detection and recognition
+- Image classification
+- Semantic segmentation
+- Optical character recognition (OCR)
+- Video analysis
+- Quality inspection systems
+
+**Technologies we use:** CNNs, YOLO, Mask R-CNN, Vision Transformers, and custom deep learning architectures.
+
+---
+
+### Large Language Models (LLMs)
+
+Harness the power of large language models for natural language processing tasks.
+
+**Capabilities:**
+
+- Text generation and summarization
+- Question answering systems
+- Document analysis and extraction
+- Chatbots and conversational AI
+- Content creation and editing
+- Multilingual processing
+
+**Technologies we use:** GPT models, BERT, fine-tuning techniques, RAG (Retrieval-Augmented Generation), and prompt engineering.
+
+---
+
+## Get Started
+
+Ready to transform your business with AI? We're here to help you identify the right solutions for your needs and implement them effectively.
+
+Contact us to discuss how we can help your organization leverage AI technologies.
