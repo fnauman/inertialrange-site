@@ -1,0 +1,27 @@
+---
+title: "About InertialRange Labs AB"
+---
+
+## Who We Are
+
+InertialRange Labs AB is a consulting company specializing in artificial intelligence solutions. We help organizations transform their operations and decision-making processes through the strategic application of AI technologies.
+
+## Our Mission
+
+To empower businesses with innovative AI solutions that drive growth, efficiency, and competitive advantage.
+
+## Our Approach
+
+We believe in:
+
+- **Collaborative Partnership**: Working closely with clients to understand their unique challenges
+- **Practical Implementation**: Delivering solutions that can be effectively integrated into existing workflows
+- **Continuous Innovation**: Staying at the forefront of AI research and development
+- **Ethical AI**: Ensuring responsible and transparent use of AI technologies
+
+## Company Information
+
+**InertialRange Labs AB**  
+Consulting Services in Artificial Intelligence
+
+For inquiries about our services, please visit our [Services](services.qmd) page.
