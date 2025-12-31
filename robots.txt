@@ -1,1 +1,1 @@
-Sitemap: https://fnauman.github.io/inertialrange-site/sitemap.xml
+Sitemap: https://inertialrange.com/sitemap.xml
