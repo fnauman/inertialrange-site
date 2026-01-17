@@ -1,44 +1,43 @@
 ---
-title: "Welcome to InertialRange Labs AB"
+title: "InertialRange Labs AB"
+subtitle: "AI Solutions & LLM Integration — from feasibility to production"
+toc: false
 ---
 
-## Leading AI Consulting Solutions
+## AI consulting with clear scope and outcomes
 
-InertialRange Labs AB is a specialized consulting company providing cutting-edge AI solutions to help businesses harness the power of artificial intelligence.
+I help teams validate AI opportunities, run fixed-scope pilots, and de-risk delivery with senior technical leadership.
 
-### Our Expertise
-
-We offer comprehensive AI consulting services in four key areas:
+### Packaged offers
 
 ::: {.grid}
 
-::: {.g-col-6}
-#### Time Series Forecasting
-Predict future trends and patterns in your data with advanced forecasting models.
+::: {.g-col-4}
+#### 2-week Discovery / Data & Feasibility Audit
+Assess data readiness, clarify success metrics, and identify the fastest path to value.
 :::
 
-::: {.g-col-6}
-#### Classification
-Accurately categorize and classify data using state-of-the-art machine learning techniques.
+::: {.g-col-4}
+#### 4-week Pilot (fixed scope, acceptance criteria)
+Build and validate a pilot with defined deliverables, evaluation, and a clear handoff plan.
 :::
 
-::: {.g-col-6}
-#### Computer Vision
-Transform visual data into actionable insights with deep learning-powered image analysis.
-:::
-
-::: {.g-col-6}
-#### Large Language Models
-Leverage the power of LLMs for natural language understanding and generation.
+::: {.g-col-4}
+#### Fractional Tech Lead (1–2 days/week)
+Ongoing architecture, roadmap, and engineering leadership to ship production-grade AI.
 :::
 
 :::
 
-### Why Choose Us?
+::: {.callout-note}
+### Founder credibility
+Farrukh Nauman, PhD (Computational Astrophysics). Former research scientist at the Niels Bohr Institute and Chalmers. AI team lead and principal consultant with delivered outcomes including 40% faster inspection workflows, 50%+ lower data collection costs via synthetic data, and 90% lower hardware costs for industrial edge AI.
+:::
 
-- **Expertise**: Deep knowledge in AI and machine learning technologies
-- **Custom Solutions**: Tailored approaches for your specific business needs
-- **Results-Driven**: Focus on delivering measurable business outcomes
-- **Innovation**: Stay ahead with the latest AI advancements
+## Next step
 
-[Learn more about our services →](services.qmd)
+[Book a call](https://calendar.app.google/sH8s13r8keotW6jf9){.btn .btn-primary}
+[View services](services.qmd){.btn .btn-outline-primary}
+[Contact](contact.qmd){.btn .btn-outline-secondary}
+
+Or email: [farrukh.nauman@inertialrange.com](mailto:farrukh.nauman@inertialrange.com)

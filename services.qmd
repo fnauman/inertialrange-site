@@ -1,79 +1,60 @@
 ---
-title: "Our Services"
+title: "Services"
+toc: false
 ---
 
-## AI Consulting Services
+## Packaged offers
 
-InertialRange Labs AB offers specialized consulting in four core areas of artificial intelligence:
+These engagements are designed for teams who want senior AI/GenAI delivery without an open-ended project.
 
-### Time Series Forecasting
+::: {.grid}
 
-Time series forecasting is essential for businesses that need to predict future trends based on historical data.
+::: {.g-col-4}
+#### 2-week Discovery / Data & Feasibility Audit
+Clarify the use case, assess data readiness, and identify the fastest path to value.
 
-**Our capabilities include:**
+**You leave with:**
 
-- Sales and demand forecasting
-- Financial market predictions
-- Energy consumption forecasting
-- Inventory optimization
-- Seasonal trend analysis
+- A data readiness assessment (quality, access, gaps)
+- Success metrics and an evaluation approach
+- A risk register plus recommended next steps
+:::
 
-**Technologies we use:** ARIMA, Prophet, LSTM networks, Transformer models, and more.
+::: {.g-col-4}
+#### 4-week Pilot (fixed scope, acceptance criteria)
+Build and validate a pilot with defined deliverables, evaluation, and a clear handoff plan.
 
----
+**You leave with:**
 
-### Classification
+- Acceptance criteria agreed up front
+- A working pilot and evaluation results
+- A production handoff plan (architecture + next-step roadmap)
+:::
 
-Classification models help organizations automatically categorize and make decisions based on data patterns.
+::: {.g-col-4}
+#### Fractional Tech Lead (1–2 days/week)
+Ongoing architecture, roadmap, and engineering leadership to ship production-grade AI.
 
-**Applications:**
+**You get:**
 
-- Customer segmentation
-- Fraud detection
-- Quality control
-- Risk assessment
-- Sentiment analysis
+- Senior technical leadership and stakeholder alignment
+- Technical direction for GenAI/ML systems, MLOps, and governance
+- Reviews, unblockers, and delivery accountability
+:::
 
-**Technologies we use:** Random Forests, Gradient Boosting, Neural Networks, Support Vector Machines.
+:::
 
----
+## How it works
 
-### Computer Vision
+1. Intro call: a short conversation to assess fit and define the problem.
+2. Scope: a lightweight proposal with deliverables, timeline, and dependencies.
+3. Kickoff: align on success criteria and get access to data/systems.
+4. Delivery: weekly check-ins and fast feedback cycles.
+5. Handoff: deliverables, documentation, and a clear next-step roadmap.
 
-Computer vision enables machines to understand and interpret visual information from the world.
+## Next step
 
-**Services:**
+[Book a call](https://calendar.app.google/sH8s13r8keotW6jf9){.btn .btn-primary}
+[Contact](contact.qmd){.btn .btn-outline-secondary}
 
-- Object detection and recognition
-- Image classification
-- Semantic segmentation
-- Optical character recognition (OCR)
-- Video analysis
-- Quality inspection systems
-
-**Technologies we use:** CNNs, YOLO, Mask R-CNN, Vision Transformers, and custom deep learning architectures.
-
----
-
-### Large Language Models (LLMs)
-
-Harness the power of large language models for natural language processing tasks.
-
-**Capabilities:**
-
-- Text generation and summarization
-- Question answering systems
-- Document analysis and extraction
-- Chatbots and conversational AI
-- Content creation and editing
-- Multilingual processing
-
-**Technologies we use:** GPT models, BERT, fine-tuning techniques, RAG (Retrieval-Augmented Generation), and prompt engineering.
-
----
-
-## Get Started
-
-Ready to transform your business with AI? We're here to help you identify the right solutions for your needs and implement them effectively.
-
-Contact us to discuss how we can help your organization leverage AI technologies.
+Or email: [farrukh.nauman@inertialrange.com](mailto:farrukh.nauman@inertialrange.com)

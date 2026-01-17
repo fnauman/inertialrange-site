@@ -1,0 +1,25 @@
+---
+title: "Contact"
+toc: false
+---
+
+## Get in touch
+
+Email: [farrukh.nauman@inertialrange.com](mailto:farrukh.nauman@inertialrange.com)
+
+Calendar: [Book a call](https://calendar.app.google/sH8s13r8keotW6jf9)
+
+## What to include in your inquiry
+
+To make the first call productive, please include:
+
+- A short description of your use case and why it matters
+- What outcome you want (and how you’d measure success)
+- Your current state: data availability, systems, and constraints
+- Timeline and key stakeholders
+- Any security / compliance requirements
+
+## Next step
+
+[Book a call](https://calendar.app.google/sH8s13r8keotW6jf9){.btn .btn-primary}
+[View services](services.qmd){.btn .btn-outline-primary}

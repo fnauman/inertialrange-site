@@ -5,14 +5,16 @@
   margin-bottom: 2rem;
 }
 
-.g-col-6 {
+.g-col-6,
+.g-col-4 {
   padding: 1rem;
   background-color: #f8f9fa;
   border-radius: 8px;
   margin-bottom: 1rem;
 }
 
-.g-col-6 h4 {
+.g-col-6 h4,
+.g-col-4 h4 {
   color: #0d6efd;
   margin-bottom: 0.5rem;
 }

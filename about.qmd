@@ -1,27 +1,26 @@
 ---
-title: "About InertialRange Labs AB"
+title: "About"
+toc: false
 ---
 
-## Who We Are
+## Founder
 
-InertialRange Labs AB is a consulting company specializing in artificial intelligence solutions. We help organizations transform their operations and decision-making processes through the strategic application of AI technologies.
+InertialRange Labs AB is a AI consulting practice run by Farrukh Nauman.
 
-## Our Mission
+I have a PhD in Computational Astrophysics (University of Rochester) and held research roles at the Niels Bohr Institute and Chalmers University of Technology. In industry, I’ve led applied AI and GenAI delivery as an AI researcher/consultant at RISE, and as an interim team lead for Data Science & Advanced Analytics at a global industrial manufacturer.
 
-To empower businesses with innovative AI solutions that drive growth, efficiency, and competitive advantage.
+At RISE, I led Vinnova-funded applied AI projects (project lead, ~9M SEK) and contributed as AI lead to EU initiatives (~2M SEK), delivering pilot-ready systems and public artifacts.
 
-## Our Approach
+Across engagements, I focus on shipping systems that create measurable impact — including 40% faster inspection workflows, 50%+ lower data collection costs via synthetic data, and 90% lower hardware costs for industrial edge AI.
 
-We believe in:
+## Why this company exists
 
-- **Collaborative Partnership**: Working closely with clients to understand their unique challenges
-- **Practical Implementation**: Delivering solutions that can be effectively integrated into existing workflows
-- **Continuous Innovation**: Staying at the forefront of AI research and development
-- **Ethical AI**: Ensuring responsible and transparent use of AI technologies
+Most AI initiatives fail for predictable reasons: poor evaluation setup, underestimating data readiness, and a gap between prototypes and production. InertialRange exists to remove those failure modes with a focus on early-stage evaluation, clear scope, and delivery-oriented execution.
 
-## Company Information
+Running my own company also lets me choose the right roles and engagements — the ones where I can take real ownership and deliver outcomes.
 
-**InertialRange Labs AB**  
-Consulting Services in Artificial Intelligence
+## Next step
 
-For inquiries about our services, please visit our [Services](services.qmd) page.
+[View services](services.qmd){.btn .btn-outline-primary}
+[Book a call](https://calendar.app.google/sH8s13r8keotW6jf9){.btn .btn-primary}
+[Contact](contact.qmd){.btn .btn-outline-secondary}
