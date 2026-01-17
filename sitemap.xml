@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://inertialrange.com/contact.html</loc>
+    <lastmod>2026-01-17T16:33:11.880Z</lastmod>
+  </url>
+  <url>
     <loc>https://inertialrange.com/about.html</loc>
-    <lastmod>2025-12-31T08:13:59.451Z</lastmod>
+    <lastmod>2026-01-17T16:42:11.411Z</lastmod>
   </url>
   <url>
     <loc>https://inertialrange.com/index.html</loc>
-    <lastmod>2025-12-31T08:13:59.451Z</lastmod>
+    <lastmod>2026-01-17T16:46:15.547Z</lastmod>
   </url>
   <url>
     <loc>https://inertialrange.com/services.html</loc>
-    <lastmod>2025-12-31T08:13:59.451Z</lastmod>
+    <lastmod>2026-01-17T16:31:36.032Z</lastmod>
   </url>
 </urlset>

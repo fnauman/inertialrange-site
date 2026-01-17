@@ -1,72 +1,107 @@
 [
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: farrukh.nauman@inertialrange.com\nCalendar: Book a call"
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: farrukh.nauman@inertialrange.com\nCalendar: Book a call"
+  },
+  {
+    "objectID": "contact.html#what-to-include-in-your-inquiry",
+    "href": "contact.html#what-to-include-in-your-inquiry",
+    "title": "Contact",
+    "section": "What to include in your inquiry",
+    "text": "What to include in your inquiry\nTo make the first call productive, please include:\n\nA short description of your use case and why it matters\nWhat outcome you want (and how you’d measure success)\nYour current state: data availability, systems, and constraints\nTimeline and key stakeholders\nAny security / compliance requirements"
+  },
+  {
+    "objectID": "contact.html#next-step",
+    "href": "contact.html#next-step",
+    "title": "Contact",
+    "section": "Next step",
+    "text": "Next step\nBook a call View services"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About InertialRange Labs AB",
+    "title": "About",
     "section": "",
-    "text": "InertialRange Labs AB is a consulting company specializing in artificial intelligence solutions. We help organizations transform their operations and decision-making processes through the strategic application of AI technologies."
+    "text": "InertialRange Labs AB is a AI consulting practice run by Farrukh Nauman.\nI have a PhD in Computational Astrophysics (University of Rochester) and held research roles at the Niels Bohr Institute and Chalmers University of Technology. In industry, I’ve led applied AI and GenAI delivery as an AI researcher/consultant at RISE, and as an interim team lead for Data Science & Advanced Analytics at a global industrial manufacturer.\nAt RISE, I led Vinnova-funded applied AI projects (project lead, ~9M SEK) and contributed as AI lead to EU initiatives (~2M SEK), delivering pilot-ready systems and public artifacts.\nAcross engagements, I focus on shipping systems that create measurable impact — including 40% faster inspection workflows, 50%+ lower data collection costs via synthetic data, and 90% lower hardware costs for industrial edge AI."
   },
   {
-    "objectID": "about.html#who-we-are",
-    "href": "about.html#who-we-are",
-    "title": "About InertialRange Labs AB",
+    "objectID": "about.html#founder",
+    "href": "about.html#founder",
+    "title": "About",
     "section": "",
-    "text": "InertialRange Labs AB is a consulting company specializing in artificial intelligence solutions. We help organizations transform their operations and decision-making processes through the strategic application of AI technologies."
+    "text": "InertialRange Labs AB is a AI consulting practice run by Farrukh Nauman.\nI have a PhD in Computational Astrophysics (University of Rochester) and held research roles at the Niels Bohr Institute and Chalmers University of Technology. In industry, I’ve led applied AI and GenAI delivery as an AI researcher/consultant at RISE, and as an interim team lead for Data Science & Advanced Analytics at a global industrial manufacturer.\nAt RISE, I led Vinnova-funded applied AI projects (project lead, ~9M SEK) and contributed as AI lead to EU initiatives (~2M SEK), delivering pilot-ready systems and public artifacts.\nAcross engagements, I focus on shipping systems that create measurable impact — including 40% faster inspection workflows, 50%+ lower data collection costs via synthetic data, and 90% lower hardware costs for industrial edge AI."
   },
   {
-    "objectID": "about.html#our-mission",
-    "href": "about.html#our-mission",
-    "title": "About InertialRange Labs AB",
-    "section": "Our Mission",
-    "text": "Our Mission\nTo empower businesses with innovative AI solutions that drive growth, efficiency, and competitive advantage."
+    "objectID": "about.html#why-this-company-exists",
+    "href": "about.html#why-this-company-exists",
+    "title": "About",
+    "section": "Why this company exists",
+    "text": "Why this company exists\nMost AI initiatives fail for predictable reasons: poor evaluation setup, underestimating data readiness, and a gap between prototypes and production. InertialRange exists to remove those failure modes with a focus on early-stage evaluation, clear scope, and delivery-oriented execution.\nRunning my own company also lets me choose the right roles and engagements — the ones where I can take real ownership and deliver outcomes."
   },
   {
-    "objectID": "about.html#our-approach",
-    "href": "about.html#our-approach",
-    "title": "About InertialRange Labs AB",
-    "section": "Our Approach",
-    "text": "Our Approach\nWe believe in:\n\nCollaborative Partnership: Working closely with clients to understand their unique challenges\nPractical Implementation: Delivering solutions that can be effectively integrated into existing workflows\nContinuous Innovation: Staying at the forefront of AI research and development\nEthical AI: Ensuring responsible and transparent use of AI technologies"
-  },
-  {
-    "objectID": "about.html#company-information",
-    "href": "about.html#company-information",
-    "title": "About InertialRange Labs AB",
-    "section": "Company Information",
-    "text": "Company Information\nInertialRange Labs AB\nConsulting Services in Artificial Intelligence\nFor inquiries about our services, please visit our Services page."
+    "objectID": "about.html#next-step",
+    "href": "about.html#next-step",
+    "title": "About",
+    "section": "Next step",
+    "text": "Next step\nView services Book a call Contact"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to InertialRange Labs AB",
+    "title": "InertialRange Labs AB",
     "section": "",
-    "text": "InertialRange Labs AB is a specialized consulting company providing cutting-edge AI solutions to help businesses harness the power of artificial intelligence.\n\n\nWe offer comprehensive AI consulting services in four key areas:\n\n\n\nPredict future trends and patterns in your data with advanced forecasting models.\n\n\n\nAccurately categorize and classify data using state-of-the-art machine learning techniques.\n\n\n\nTransform visual data into actionable insights with deep learning-powered image analysis.\n\n\n\nLeverage the power of LLMs for natural language understanding and generation.\n\n\n\n\n\n\nExpertise: Deep knowledge in AI and machine learning technologies\nCustom Solutions: Tailored approaches for your specific business needs\nResults-Driven: Focus on delivering measurable business outcomes\nInnovation: Stay ahead with the latest AI advancements\n\nLearn more about our services →"
+    "text": "I help teams validate AI opportunities, run fixed-scope pilots, and de-risk delivery with senior technical leadership.\n\n\n\n\n\nAssess data readiness, clarify success metrics, and identify the fastest path to value.\n\n\n\nBuild and validate a pilot with defined deliverables, evaluation, and a clear handoff plan.\n\n\n\nOngoing architecture, roadmap, and engineering leadership to ship production-grade AI.\n\n\n\n\n\n\n\n\nNoteFounder credibility\n\n\n\nFarrukh Nauman, PhD (Computational Astrophysics). Former research scientist at the Niels Bohr Institute and Chalmers. AI team lead and principal consultant with delivered outcomes including 40% faster inspection workflows, 50%+ lower data collection costs via synthetic data, and 90% lower hardware costs for industrial edge AI."
   },
   {
-    "objectID": "index.html#leading-ai-consulting-solutions",
-    "href": "index.html#leading-ai-consulting-solutions",
-    "title": "Welcome to InertialRange Labs AB",
+    "objectID": "index.html#ai-consulting-with-clear-scope-and-outcomes",
+    "href": "index.html#ai-consulting-with-clear-scope-and-outcomes",
+    "title": "InertialRange Labs AB",
     "section": "",
-    "text": "InertialRange Labs AB is a specialized consulting company providing cutting-edge AI solutions to help businesses harness the power of artificial intelligence.\n\n\nWe offer comprehensive AI consulting services in four key areas:\n\n\n\nPredict future trends and patterns in your data with advanced forecasting models.\n\n\n\nAccurately categorize and classify data using state-of-the-art machine learning techniques.\n\n\n\nTransform visual data into actionable insights with deep learning-powered image analysis.\n\n\n\nLeverage the power of LLMs for natural language understanding and generation.\n\n\n\n\n\n\nExpertise: Deep knowledge in AI and machine learning technologies\nCustom Solutions: Tailored approaches for your specific business needs\nResults-Driven: Focus on delivering measurable business outcomes\nInnovation: Stay ahead with the latest AI advancements\n\nLearn more about our services →"
+    "text": "I help teams validate AI opportunities, run fixed-scope pilots, and de-risk delivery with senior technical leadership.\n\n\n\n\n\nAssess data readiness, clarify success metrics, and identify the fastest path to value.\n\n\n\nBuild and validate a pilot with defined deliverables, evaluation, and a clear handoff plan.\n\n\n\nOngoing architecture, roadmap, and engineering leadership to ship production-grade AI.\n\n\n\n\n\n\n\n\nNoteFounder credibility\n\n\n\nFarrukh Nauman, PhD (Computational Astrophysics). Former research scientist at the Niels Bohr Institute and Chalmers. AI team lead and principal consultant with delivered outcomes including 40% faster inspection workflows, 50%+ lower data collection costs via synthetic data, and 90% lower hardware costs for industrial edge AI."
+  },
+  {
+    "objectID": "index.html#next-step",
+    "href": "index.html#next-step",
+    "title": "InertialRange Labs AB",
+    "section": "Next step",
+    "text": "Next step\nBook a call View services Contact\nOr email: farrukh.nauman@inertialrange.com"
   },
   {
     "objectID": "services.html",
     "href": "services.html",
-    "title": "Our Services",
+    "title": "Services",
     "section": "",
-    "text": "InertialRange Labs AB offers specialized consulting in four core areas of artificial intelligence:\n\n\nTime series forecasting is essential for businesses that need to predict future trends based on historical data.\nOur capabilities include:\n\nSales and demand forecasting\nFinancial market predictions\nEnergy consumption forecasting\nInventory optimization\nSeasonal trend analysis\n\nTechnologies we use: ARIMA, Prophet, LSTM networks, Transformer models, and more.\n\n\n\n\nClassification models help organizations automatically categorize and make decisions based on data patterns.\nApplications:\n\nCustomer segmentation\nFraud detection\nQuality control\nRisk assessment\nSentiment analysis\n\nTechnologies we use: Random Forests, Gradient Boosting, Neural Networks, Support Vector Machines.\n\n\n\n\nComputer vision enables machines to understand and interpret visual information from the world.\nServices:\n\nObject detection and recognition\nImage classification\nSemantic segmentation\nOptical character recognition (OCR)\nVideo analysis\nQuality inspection systems\n\nTechnologies we use: CNNs, YOLO, Mask R-CNN, Vision Transformers, and custom deep learning architectures.\n\n\n\n\nHarness the power of large language models for natural language processing tasks.\nCapabilities:\n\nText generation and summarization\nQuestion answering systems\nDocument analysis and extraction\nChatbots and conversational AI\nContent creation and editing\nMultilingual processing\n\nTechnologies we use: GPT models, BERT, fine-tuning techniques, RAG (Retrieval-Augmented Generation), and prompt engineering."
+    "text": "These engagements are designed for teams who want senior AI/GenAI delivery without an open-ended project.\n\n\n\nClarify the use case, assess data readiness, and identify the fastest path to value.\nYou leave with:\n\nA data readiness assessment (quality, access, gaps)\nSuccess metrics and an evaluation approach\nA risk register plus recommended next steps\n\n\n\n\nBuild and validate a pilot with defined deliverables, evaluation, and a clear handoff plan.\nYou leave with:\n\nAcceptance criteria agreed up front\nA working pilot and evaluation results\nA production handoff plan (architecture + next-step roadmap)\n\n\n\n\nOngoing architecture, roadmap, and engineering leadership to ship production-grade AI.\nYou get:\n\nSenior technical leadership and stakeholder alignment\nTechnical direction for GenAI/ML systems, MLOps, and governance\nReviews, unblockers, and delivery accountability"
   },
   {
-    "objectID": "services.html#ai-consulting-services",
-    "href": "services.html#ai-consulting-services",
-    "title": "Our Services",
+    "objectID": "services.html#packaged-offers",
+    "href": "services.html#packaged-offers",
+    "title": "Services",
     "section": "",
-    "text": "InertialRange Labs AB offers specialized consulting in four core areas of artificial intelligence:\n\n\nTime series forecasting is essential for businesses that need to predict future trends based on historical data.\nOur capabilities include:\n\nSales and demand forecasting\nFinancial market predictions\nEnergy consumption forecasting\nInventory optimization\nSeasonal trend analysis\n\nTechnologies we use: ARIMA, Prophet, LSTM networks, Transformer models, and more.\n\n\n\n\nClassification models help organizations automatically categorize and make decisions based on data patterns.\nApplications:\n\nCustomer segmentation\nFraud detection\nQuality control\nRisk assessment\nSentiment analysis\n\nTechnologies we use: Random Forests, Gradient Boosting, Neural Networks, Support Vector Machines.\n\n\n\n\nComputer vision enables machines to understand and interpret visual information from the world.\nServices:\n\nObject detection and recognition\nImage classification\nSemantic segmentation\nOptical character recognition (OCR)\nVideo analysis\nQuality inspection systems\n\nTechnologies we use: CNNs, YOLO, Mask R-CNN, Vision Transformers, and custom deep learning architectures.\n\n\n\n\nHarness the power of large language models for natural language processing tasks.\nCapabilities:\n\nText generation and summarization\nQuestion answering systems\nDocument analysis and extraction\nChatbots and conversational AI\nContent creation and editing\nMultilingual processing\n\nTechnologies we use: GPT models, BERT, fine-tuning techniques, RAG (Retrieval-Augmented Generation), and prompt engineering."
+    "text": "These engagements are designed for teams who want senior AI/GenAI delivery without an open-ended project.\n\n\n\nClarify the use case, assess data readiness, and identify the fastest path to value.\nYou leave with:\n\nA data readiness assessment (quality, access, gaps)\nSuccess metrics and an evaluation approach\nA risk register plus recommended next steps\n\n\n\n\nBuild and validate a pilot with defined deliverables, evaluation, and a clear handoff plan.\nYou leave with:\n\nAcceptance criteria agreed up front\nA working pilot and evaluation results\nA production handoff plan (architecture + next-step roadmap)\n\n\n\n\nOngoing architecture, roadmap, and engineering leadership to ship production-grade AI.\nYou get:\n\nSenior technical leadership and stakeholder alignment\nTechnical direction for GenAI/ML systems, MLOps, and governance\nReviews, unblockers, and delivery accountability"
   },
   {
-    "objectID": "services.html#get-started",
-    "href": "services.html#get-started",
-    "title": "Our Services",
-    "section": "Get Started",
-    "text": "Get Started\nReady to transform your business with AI? We’re here to help you identify the right solutions for your needs and implement them effectively.\nContact us to discuss how we can help your organization leverage AI technologies."
+    "objectID": "services.html#how-it-works",
+    "href": "services.html#how-it-works",
+    "title": "Services",
+    "section": "How it works",
+    "text": "How it works\n\nIntro call: a short conversation to assess fit and define the problem.\nScope: a lightweight proposal with deliverables, timeline, and dependencies.\nKickoff: align on success criteria and get access to data/systems.\nDelivery: weekly check-ins and fast feedback cycles.\nHandoff: deliverables, documentation, and a clear next-step roadmap."
+  },
+  {
+    "objectID": "services.html#next-step",
+    "href": "services.html#next-step",
+    "title": "Services",
+    "section": "Next step",
+    "text": "Next step\nBook a call Contact\nOr email: farrukh.nauman@inertialrange.com"
   }
 ]
