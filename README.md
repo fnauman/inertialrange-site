@@ -1,14 +1,16 @@
 # InertialRange Labs AB Website
 
-This is the official website for InertialRange Labs AB, a consulting company specializing in AI solutions.
+This is the official website for [InertialRange Labs AB](https://inertialrange.com), an AI and data-platform consulting practice run by Farrukh Nauman.
 
 ## About
 
-InertialRange Labs AB provides consulting services in:
-- Time Series Forecasting
-- Classification
-- Computer Vision
-- Large Language Models (LLMs)
+InertialRange Labs AB provides senior consulting in:
+- Enterprise data platforms (Snowflake, Databricks, Spark, Snowpark)
+- AI coding-agent workflows for migration, validation, and analytics automation
+- Time series / telemetry ML for industrial production and edge deployment
+- Fractional / interim technical leadership
+
+See [fnauman.com](https://fnauman.com) for case studies and writing.
 
 ## Building the Website
 

@@ -3,24 +3,92 @@ title: "Services"
 toc: false
 ---
 
-## Packaged offers
+## What I help with
 
-These engagements are designed for teams who want senior AI/GenAI delivery without an open-ended project.
+For worked examples of each of these areas, see [selected work →](https://fnauman.com/consulting.html) on fnauman.com.
 
 ::: {.grid}
 
-::: {.g-col-4}
+::: {.g-col-12}
+#### AI Automation Lead & Change Management
+
+You know AI and coding agents will reshape how your organization runs — but you need someone who can lead the change without breaking production. I take ownership across the full arc:
+
+- **Discovery & prioritization**: identify high-friction manual workflows, score automation opportunities by ROI and risk, and produce a sequenced roadmap.
+- **Stack modernization**: plan and lead the move off legacy platforms, frameworks, and code — with evidence-based validation, not "lift-and-pray".
+- **Agents in your workflows**: integrate coding agents and LLM-driven automation into existing analytics, engineering, and operational processes — with the harness, test discipline, governance, and operating constraints that make agents reliable in production.
+- **Legacy code upgrades**: large code migrations (language, framework, platform) using behavioral oracles, evidence-preservation methodology, and `AGENTS.md` quality contracts.
+- **Stakeholder steering**: align business owners, IT, data, legal/compliance, and security around a shared definition of done.
+- **Capability building**: mentor your team so they own the system after I leave.
+
+Engagement model: **interim AI Automation Lead** or **Change/Modernization Manager**, typically 3–9 months at 2–5 days/week. See engagement options below.
+:::
+
+::: {.g-col-md-6 .g-col-12}
+#### Migration Assurance
+You're migrating between data platforms and nobody can answer *"is the target data correct?"* with confidence. I build systematic cross-platform validation — automated comparison of schemas, row counts, key distributions, and date ranges across dozens of tables — plus dashboards the team can trust and defects surfaced early. *Databricks ↔ Snowflake.*
+:::
+
+::: {.g-col-md-6 .g-col-12}
+#### Warehouse Cost & Performance
+Your warehouse bill is growing faster than your data and pipelines run on brute-force full scans. I profile execution step by step, benchmark alternatives across data scales and warehouse sizes, and validate correctness with row-level comparisons — not just aggregate checksums. *Snowflake, Databricks, Spark, Snowpark.*
+:::
+
+::: {.g-col-md-6 .g-col-12}
+#### Coding-Agent Workflows: Automation & Legacy Modernization
+Your team spends too much time on manual notebook runs, repetitive SQL, copy-paste workflows, and aging code that nobody wants to touch. I design and implement coding-agent workflows for **analytics automation**, **pipeline modernization**, and **legacy code upgrades** (language, framework, or platform migrations) — with behavioral oracles, evidence-preservation, and the operating constraints that make agents reliable in production.
+:::
+
+::: {.g-col-md-6 .g-col-12}
+#### Time Series / Telemetry ML
+You have sensor, telemetry, or time series data and need production ML — activity recognition, anomaly detection, forecasting, or classification. I design and deliver systems from evaluation harness to production, with approaches fast enough for edge and IoT (ROCKET family, lightweight models) while maintaining accuracy.
+:::
+
+:::
+
+## Engagement models & packaged offers
+
+Senior delivery without an open-ended project — sized from a 2-week audit to a multi-month interim leadership engagement.
+
+::: {.grid}
+
+::: {.g-col-md-6 .g-col-12}
+#### AI Automation Lead & Change Manager
+Interim leadership for organization-wide AI / automation transformation — typically 3–9 months at 2–5 days/week.
+
+**You get:**
+
+- Roadmap ownership and prioritized automation portfolio
+- Stack-modernization and legacy-upgrade leadership
+- Stakeholder steering across business / IT / data / legal / security
+- Governance-aware integration of coding agents into your workflows
+- Capability building so your team owns the system after I leave
+:::
+
+::: {.g-col-md-6 .g-col-12}
+#### Fractional / Interim Tech Lead
+Senior technical leadership, roadmap ownership, and delivery discipline — from 1–2 days/week up to full interim team-lead engagements.
+
+**You get:**
+
+- Senior technical leadership and stakeholder alignment
+- Technical direction for data platforms, ML, and GenAI automation
+- Reviews, unblockers, and delivery accountability
+:::
+
+::: {.g-col-md-6 .g-col-12}
 #### 2-week Discovery / Data & Feasibility Audit
 Clarify the use case, assess data readiness, and identify the fastest path to value.
 
 **You leave with:**
 
 - A data readiness assessment (quality, access, gaps)
+- A prioritized AI-automation opportunity map (ROI × risk)
 - Success metrics and an evaluation approach
 - A risk register plus recommended next steps
 :::
 
-::: {.g-col-4}
+::: {.g-col-md-6 .g-col-12}
 #### 4-week Pilot (fixed scope, acceptance criteria)
 Build and validate a pilot with defined deliverables, evaluation, and a clear handoff plan.
 
@@ -31,26 +99,22 @@ Build and validate a pilot with defined deliverables, evaluation, and a clear ha
 - A production handoff plan (architecture + next-step roadmap)
 :::
 
-::: {.g-col-4}
-#### Fractional Tech Lead (1–2 days/week)
-Ongoing architecture, roadmap, and engineering leadership to ship production-grade AI.
-
-**You get:**
-
-- Senior technical leadership and stakeholder alignment
-- Technical direction for GenAI/ML systems, MLOps, and governance
-- Reviews, unblockers, and delivery accountability
 :::
 
-:::
+## Who I work best with
+
+- **Executives & transformation sponsors** who need an AI Automation Lead or Change Manager to own the AI / modernization roadmap end-to-end — not a strategy deck.
+- **Data platform & engineering leaders** migrating between warehouses or modernizing legacy code who need systematic validation — not spot-checks and hope.
+- **Technical sponsors & architects** who need a senior practitioner to lead or unblock a workstream — someone who owns deliverables, not slide decks.
+- **Teams with telemetry or time series data** that need production ML — activity recognition, anomaly detection, or forecasting — not a research paper.
 
 ## How it works
 
-1. Intro call: a short conversation to assess fit and define the problem.
-2. Scope: a lightweight proposal with deliverables, timeline, and dependencies.
-3. Kickoff: align on success criteria and get access to data/systems.
-4. Delivery: weekly check-ins and fast feedback cycles.
-5. Handoff: deliverables, documentation, and a clear next-step roadmap.
+1. **Intro call**: a short conversation to assess fit and define the problem.
+2. **Scope**: a lightweight proposal with deliverables, timeline, and dependencies.
+3. **Kickoff**: align on success criteria and get access to data/systems.
+4. **Delivery**: weekly check-ins and fast feedback cycles.
+5. **Handoff**: deliverables, documentation, and a clear next-step roadmap.
 
 ## Next step
 

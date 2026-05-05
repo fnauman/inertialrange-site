@@ -5,8 +5,11 @@ project:
 website:
   title: "InertialRange Labs AB"
   site-url: https://inertialrange.com
+  description: "Enterprise data platforms, coding agents, and time series ML — senior AI consulting with clear scope and outcomes."
+  favicon: company-logo.png
   navbar:
     background: primary
+    logo: company-logo.png
     left:
       - href: index.qmd
         text: Home
@@ -16,6 +19,9 @@ website:
         text: Services
       - href: contact.qmd
         text: Contact
+  page-footer:
+    center: |
+      © 2026 InertialRange Labs AB · [fnauman.com](https://fnauman.com) · [LinkedIn](https://www.linkedin.com/in/fnauman/) · [GitHub](https://github.com/fnauman)
 
 format:
   html:

@@ -1,37 +1,76 @@
 ---
+pagetitle: "InertialRange Labs AB — Enterprise Data Platforms · Coding Agents · Time Series ML"
 title: "InertialRange Labs AB"
-subtitle: "AI Solutions & LLM Integration — from feasibility to production"
+subtitle: "Enterprise Data Platforms · Coding Agents · Time Series ML"
 toc: false
 ---
 
-## AI consulting with clear scope and outcomes
+![](company-banner.png){.hero-banner fig-alt="InertialRange Labs AB"}
 
-I help teams validate AI opportunities, run fixed-scope pilots, and de-risk delivery with senior technical leadership.
+## Senior AI leadership & delivery — with clear scope and outcomes
 
-### Packaged offers
+I help enterprises move from AI exploration to controlled implementation: identifying high-value automation opportunities, modernizing data and code stacks, integrating agents into existing workflows, and upgrading legacy code — while managing stakeholders across business, IT, data, legal, and security.
+
+I work as **AI Automation Lead / Change Manager, Principal Consultant or AI Engineer** — depending on what the engagement needs. I lead and ship in production-scale environments, owning roadmaps and writing code, not slide decks.
+
+### Recent outcomes
 
 ::: {.grid}
 
-::: {.g-col-4}
-#### 2-week Discovery / Data & Feasibility Audit
-Assess data readiness, clarify success metrics, and identify the fastest path to value.
+::: {.g-col-md-4 .g-col-12}
+#### ~1 week
+Cross-platform migration validator — zero to live dashboard (Databricks → Snowflake).
+
+[Case study →](https://fnauman.com/posts/2026-04-01-validating-a-data-platform-migration-with-an-ai-coding-agent/index.html)
 :::
 
-::: {.g-col-4}
+::: {.g-col-md-4 .g-col-12}
+#### 5–10× faster · 50%+ cheaper
+SQL pipeline optimization with row-level correctness validation.
+
+[Case study →](https://fnauman.com/posts/2026-04-07-fast-wrong-is-worse-than-slow-right/index.html)
+:::
+
+::: {.g-col-md-4 .g-col-12}
+#### 10–100× faster
+Time series classification for industrial telemetry and edge deployment.
+
+[Read more →](https://fnauman.com/consulting/2025-11-01-Time-Series-Classification/index.html)
+:::
+
+:::
+
+[See all selected work →](https://fnauman.com/consulting.html)
+
+### Engagement models
+
+::: {.grid}
+
+::: {.g-col-md-6 .g-col-12}
+#### AI Automation Lead & Change Manager
+Own AI/automation transformation across the organization: prioritize high-value automation, scope and lead PoC → production, modernize stacks, integrate agents into workflows, build internal capability, and steer business / IT / data / legal / security stakeholders.
+:::
+
+::: {.g-col-md-6 .g-col-12}
+#### Fractional / Interim Tech Lead
+Architecture, roadmap, and engineering leadership — from 1–2 days/week up to full interim team-lead engagements (currently leading a 4–7 person DS & advanced analytics team).
+:::
+
+::: {.g-col-md-6 .g-col-12}
+#### 2-week Discovery / Data & Feasibility Audit
+Assess data readiness, clarify success metrics, and identify the fastest path to value — including a prioritized AI-automation opportunity map.
+:::
+
+::: {.g-col-md-6 .g-col-12}
 #### 4-week Pilot (fixed scope, acceptance criteria)
 Build and validate a pilot with defined deliverables, evaluation, and a clear handoff plan.
-:::
-
-::: {.g-col-4}
-#### Fractional Tech Lead (1–2 days/week)
-Ongoing architecture, roadmap, and engineering leadership to ship production-grade AI.
 :::
 
 :::
 
 ::: {.callout-note}
 ### Founder credibility
-Farrukh Nauman, PhD (Computational Astrophysics). Former research scientist at the Niels Bohr Institute and Chalmers. AI team lead and principal consultant with delivered outcomes including 40% faster inspection workflows, 50%+ lower data collection costs via synthetic data, and 90% lower hardware costs for industrial edge AI.
+Farrukh Nauman, PhD — Principal Consultant and interim Data Science & Advanced Analytics team lead at a global industrial manufacturer (Sep 2025 – Jun 2026), leading a 4–7 person team across telemetry analytics, ML, and GenAI automation. Former AI researcher/consultant at RISE Research Institutes of Sweden, and research scientist at the Niels Bohr Institute and Chalmers. See [selected work](https://fnauman.com/consulting.html) and [writing](https://fnauman.com) at fnauman.com.
 :::
 
 ## Next step
