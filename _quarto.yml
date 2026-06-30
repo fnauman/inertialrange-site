@@ -5,18 +5,19 @@ project:
 website:
   title: "InertialRange Labs AB"
   site-url: https://inertialrange.com
-  description: "Enterprise data platforms, coding agents, and time series ML — senior AI consulting with clear scope and outcomes."
+  description: "AI engineering and agentic systems for production data platforms — Snowflake, Databricks, time series ML. Consulting practice of Farrukh Nauman, PhD."
   favicon: company-logo.png
+  image: company-banner.png
   navbar:
-    background: primary
+    background: dark
     logo: company-logo.png
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
-      - href: services.qmd
-        text: Services
+      - href: engage.qmd
+        text: Engage
       - href: contact.qmd
         text: Contact
   page-footer:
@@ -25,6 +26,13 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, theme.scss]
     css: styles.css
     toc: true
+    title-block-banner: "#0b1020"
+    title-block-banner-color: white
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500&family=Source+Sans+3:wght@400;600&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">

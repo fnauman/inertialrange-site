@@ -3,25 +3,19 @@ title: "About"
 toc: false
 ---
 
+## The company
+
+InertialRange Labs AB is an AI engineering and data-platform consulting practice run by **Farrukh Nauman, PhD**, registered in Sweden (Aktiebolag) and based in Linköping.
+
+I work as an **AI engineer and principal consultant**: I design and ship agentic systems — Text-to-SQL, coding agents, evaluation harnesses, tool contracts — against real schemas and real data on enterprise platforms (Snowflake, Databricks, Spark, Snowpark, SQL databases). When an engagement needs it, I also take **interim / fractional leadership** of data and AI teams. Across both, the constant is delivery: enforced retrieval, deterministic guardrails, result-level evaluation, and the test discipline that makes agents trustworthy in production.
+
 ## Founder
-
-InertialRange Labs AB is an AI and data-platform consulting practice run by Farrukh Nauman, based in Linköping, Sweden.
-
-I work as **AI Automation Lead / Change Manager, Principal Consultant, or AI Engineer** — depending on what the engagement needs. My focus areas are **enterprise data platforms** (Snowflake, Databricks, Spark, Snowpark), **AI coding-agent workflows**, and **time series / telemetry ML**, and I help organizations move from AI exploration to controlled implementation: prioritizing high-value automation, modernizing data and code stacks, integrating agents into existing workflows, upgrading legacy code, and steering stakeholders across business, IT, data, legal/compliance, and security.
 
 Since August 2025 I've been consulting through InertialRange Labs AB. As part of an ongoing engagement, I serve as **interim team lead for Data Science & Advanced Analytics** (Sep 2025 – Jun 2026) at a global industrial manufacturer, leading a 4–7 person team across telemetry analytics, ML, and GenAI automation — owning the roadmap, stakeholder steering, and technical direction.
 
 Before InertialRange, I held AI researcher and consultant roles at RISE Research Institutes of Sweden (Jul 2021 – Aug 2025), where I led a Vinnova-funded applied AI project on circular fashion (**project lead, ~9M SEK**) and contributed as AI lead to the EU CISUTAC initiative (**~2M SEK**). Earlier, I held research positions at Chalmers University of Technology and the Niels Bohr Institute, and completed a PhD in Physics and Astronomy at the University of Rochester.
 
-### Selected outcomes
-
-- **~1 week**: cross-platform migration validator (Databricks → Snowflake), zero to live dashboard.
-- **5–10× faster, 50%+ cheaper**: SQL pipeline optimization with row-level correctness validation.
-- **10–100× faster**: time series classification for industrial telemetry and edge deployment.
-- **40% faster** inspection workflows and **50%+ lower** data collection costs via synthetic data (circular-fashion computer vision).
-- **Interim team lead** for a 4–7 person DS and advanced analytics team at a global industrial manufacturer.
-
-See [selected work](https://fnauman.com/consulting.html) for worked case studies and [fnauman.com](https://fnauman.com) for writing.
+For my detailed profile, writing, and CV, see [fnauman.com](https://fnauman.com), and [selected work](https://fnauman.com/consulting.html) for worked case studies.
 
 ## Why this company exists
 
@@ -31,6 +25,6 @@ Running my own company also lets me choose the right engagements — the ones wh
 
 ## Next step
 
-[View services](services.qmd){.btn .btn-outline-primary}
+[How I work](engage.qmd){.btn .btn-outline-primary}
 [Book a call](https://calendar.app.google/sH8s13r8keotW6jf9){.btn .btn-primary}
 [Contact](contact.qmd){.btn .btn-outline-secondary}

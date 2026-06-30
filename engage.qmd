@@ -1,0 +1,67 @@
+---
+title: "Engage"
+subtitle: "How to work with InertialRange Labs AB"
+toc: true
+aliases:
+  - services.html
+---
+
+## What I do
+
+AI engineering & agentic systems · migration assurance · warehouse cost & performance · AI enablement · time series / telemetry ML — all wired to production data platforms (Snowflake, Databricks, Spark, Snowpark, SQL databases).
+
+For detailed write-ups of each area, with worked case studies, see [selected work →](https://fnauman.com/consulting.html) and [writing →](https://fnauman.com) on fnauman.com. This page is about **how to engage**.
+
+## Engagement models & packaged offers
+
+Senior delivery without an open-ended project — sized from a two-week audit to a multi-month interim lead, with scope and acceptance criteria agreed up front.
+
+::: {.grid}
+
+::: {.g-col-md-6 .g-col-12}
+#### Hands-on AI engineering
+Embedded principal: I build the thing and write the code — agents, guardrails, evals, tool contracts — alongside your team. Evaluation-first: I prove correctness before I optimize, and show evidence before I ship.
+:::
+
+::: {.g-col-md-6 .g-col-12}
+#### 2-week Discovery / Data & Feasibility Audit
+Clarify the use case, assess data readiness, and find the fastest path to value.
+
+**You leave with:** a data readiness assessment, a prioritized opportunity map (ROI × risk), success metrics and an evaluation approach, a risk register, and recommended next steps.
+:::
+
+::: {.g-col-md-6 .g-col-12}
+#### 4-week Pilot (fixed scope, acceptance criteria)
+Build and validate a pilot against criteria agreed up front.
+
+**You leave with:** acceptance criteria, a working pilot and evaluation results, and a production handoff plan (architecture + next-step roadmap).
+:::
+
+::: {.g-col-md-6 .g-col-12}
+#### Fractional / interim lead
+Senior technical leadership for data & AI teams — from 1–2 days/week up to a full interim team-lead engagement (currently leading a 4–7 person DS & advanced analytics team). Roadmap ownership, stakeholder steering, reviews, unblockers, and delivery accountability.
+:::
+
+:::
+
+## How it works
+
+1. **Intro call** — a short conversation to assess fit and define the problem.
+2. **Scope** — a lightweight proposal with deliverables, timeline, and dependencies.
+3. **Kickoff** — align on success criteria and get access to data/systems.
+4. **Delivery** — weekly check-ins and fast feedback cycles.
+5. **Handoff** — deliverables, documentation, and a clear next-step roadmap.
+
+## Practicalities
+
+- **Legal entity:** InertialRange Labs AB (Swedish Aktiebolag) — invoicing in SEK or EUR.
+- **Location & mode:** based in Linköping, Sweden — remote-first across the Nordics and EU, with onsite for kickoffs and key milestones.
+- **Fit:** strongest where there's real data, a real production target, and a stakeholder who wants ownership and evidence — not a strategy deck or a research paper.
+- **Confidentiality:** comfortable working under NDA and within existing security/compliance constraints.
+
+## Next step
+
+[Book a call](https://calendar.app.google/sH8s13r8keotW6jf9){.btn .btn-primary}
+[Contact](contact.qmd){.btn .btn-outline-secondary}
+
+Or email: [farrukh.nauman@inertialrange.com](mailto:farrukh.nauman@inertialrange.com)

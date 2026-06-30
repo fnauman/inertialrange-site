@@ -1,21 +1,19 @@
 ---
-pagetitle: "InertialRange Labs AB — Enterprise Data Platforms · Coding Agents · Time Series ML"
+pagetitle: "InertialRange Labs AB — AI Engineering · Production Data Platforms · Time Series ML"
 title: "InertialRange Labs AB"
-subtitle: "Enterprise Data Platforms · Coding Agents · Time Series ML"
+subtitle: "AI Engineering · Production Data Platforms · Time Series ML"
 toc: false
 ---
 
-![](company-banner.png){.hero-banner fig-alt="InertialRange Labs AB"}
+## AI engineer & principal consultant — agentic systems that hold up in production
 
-## Senior AI leadership & delivery — with clear scope and outcomes
+InertialRange Labs AB is the consulting practice of **Farrukh Nauman, PhD**. I design and ship AI-agent systems — Text-to-SQL, coding agents, evaluation harnesses, tool contracts — wired to production data platforms like Snowflake, Databricks, and SQL databases.
 
-I help enterprises move from AI exploration to controlled implementation: identifying high-value automation opportunities, modernizing data and code stacks, integrating agents into existing workflows, and upgrading legacy code — while managing stakeholders across business, IT, data, legal, and security.
-
-I work as **AI Automation Lead / Change Manager, Principal Consultant or AI Engineer** — depending on what the engagement needs. I lead and ship in production-scale environments, owning roadmaps and writing code, not slide decks.
+I build the thing and write the code, with the test discipline and result-level evaluation that make agents trustworthy in production — not slide decks. When an engagement needs it, I also take **interim / fractional leadership** of data and AI teams.
 
 ### Recent outcomes
 
-::: {.grid}
+::: {.grid .outcomes}
 
 ::: {.g-col-md-4 .g-col-12}
 #### ~1 week
@@ -40,43 +38,28 @@ Time series classification for industrial telemetry and edge deployment.
 
 :::
 
-[See all selected work →](https://fnauman.com/consulting.html)
+For worked case studies and writing, see [fnauman.com](https://fnauman.com) · [selected work →](https://fnauman.com/consulting.html)
 
-### Engagement models
+### How to engage
 
-::: {.grid}
+From a two-week audit to a multi-month interim lead — sized to the problem, with clear scope and acceptance criteria up front.
 
-::: {.g-col-md-6 .g-col-12}
-#### AI Automation Lead & Change Manager
-Own AI/automation transformation across the organization: prioritize high-value automation, scope and lead PoC → production, modernize stacks, integrate agents into workflows, build internal capability, and steer business / IT / data / legal / security stakeholders.
-:::
+- **2-week Discovery** — data readiness, prioritized opportunity map, success metrics.
+- **4-week Pilot** — fixed scope, acceptance criteria, working build, handoff plan.
+- **Hands-on AI engineering** — embedded delivery of agents, guardrails, evals, and tool contracts.
+- **Fractional / interim lead** — senior technical leadership for data & AI teams.
 
-::: {.g-col-md-6 .g-col-12}
-#### Fractional / Interim Tech Lead
-Architecture, roadmap, and engineering leadership — from 1–2 days/week up to full interim team-lead engagements (currently leading a 4–7 person DS & advanced analytics team).
-:::
-
-::: {.g-col-md-6 .g-col-12}
-#### 2-week Discovery / Data & Feasibility Audit
-Assess data readiness, clarify success metrics, and identify the fastest path to value — including a prioritized AI-automation opportunity map.
-:::
-
-::: {.g-col-md-6 .g-col-12}
-#### 4-week Pilot (fixed scope, acceptance criteria)
-Build and validate a pilot with defined deliverables, evaluation, and a clear handoff plan.
-:::
-
-:::
+[See how I work →](engage.qmd)
 
 ::: {.callout-note}
-### Founder credibility
-Farrukh Nauman, PhD — Principal Consultant and interim Data Science & Advanced Analytics team lead at a global industrial manufacturer (Sep 2025 – Jun 2026), leading a 4–7 person team across telemetry analytics, ML, and GenAI automation. Former AI researcher/consultant at RISE Research Institutes of Sweden, and research scientist at the Niels Bohr Institute and Chalmers. See [selected work](https://fnauman.com/consulting.html) and [writing](https://fnauman.com) at fnauman.com.
+### Behind the company
+Farrukh Nauman, PhD — currently interim Data Science & Advanced Analytics team lead at a global industrial manufacturer (Sep 2025 – Jun 2026). Former AI researcher/consultant at RISE Research Institutes of Sweden, and research scientist at the Niels Bohr Institute and Chalmers. [More about the company →](about.qmd)
 :::
 
 ## Next step
 
 [Book a call](https://calendar.app.google/sH8s13r8keotW6jf9){.btn .btn-primary}
-[View services](services.qmd){.btn .btn-outline-primary}
+[How I work](engage.qmd){.btn .btn-outline-primary}
 [Contact](contact.qmd){.btn .btn-outline-secondary}
 
 Or email: [farrukh.nauman@inertialrange.com](mailto:farrukh.nauman@inertialrange.com)
