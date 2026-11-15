@@ -16,40 +16,40 @@ I build the thing and write the code, with the test discipline and result-level 
 ::: {.grid .outcomes}
 
 ::: {.g-col-md-4 .g-col-12}
+#### 400+ regression cases
+Synthetic Text-to-SQL suite, scored on returned results.
+
+[Essay →](https://fnauman.com/posts/2026-06-28-text-to-sql-real-erp/index.html)
+:::
+
+::: {.g-col-md-4 .g-col-12}
 #### ~1 week
-Cross-platform migration validator — zero to live dashboard (Databricks → Snowflake).
+Agent-built migration validator, from zero to live dashboard.
 
 [Case study →](https://fnauman.com/posts/2026-04-01-validating-a-data-platform-migration-with-an-ai-coding-agent/index.html)
 :::
 
 ::: {.g-col-md-4 .g-col-12}
-#### 5–10× faster · 50%+ cheaper
-Largest daily job rebuilt as a validated incremental pipeline (5–10× faster); overall compute cost down 50%+.
+#### 50%+ lower compute cost
+Largest daily job 5-10x faster after an agent-driven redesign.
 
 [Case study →](https://fnauman.com/posts/2026-04-07-fast-wrong-is-worse-than-slow-right/index.html)
-:::
-
-::: {.g-col-md-4 .g-col-12}
-#### 10–100× faster
-Time series classification for industrial telemetry and edge deployment.
-
-[Read more →](https://fnauman.com/consulting/2025-11-01-Time-Series-Classification/index.html)
 :::
 
 :::
 
 For worked case studies and writing, see [fnauman.com](https://fnauman.com) · [selected work →](https://fnauman.com/consulting.html)
 
-### How to engage
+### Offers
 
-From a two-week audit to a multi-month interim lead — sized to the problem, with clear scope and acceptance criteria up front.
+Two fixed-price offers, a monthly retainer, and time-based delivery.
 
-- **2-week Discovery** — data readiness, prioritized opportunity map, success metrics.
-- **4-week Pilot** — fixed scope, acceptance criteria, working build, handoff plan.
-- **Hands-on AI engineering** — embedded delivery of agents, guardrails, evals, and tool contracts.
-- **Fractional / interim lead** — senior technical leadership for data & AI teams.
+- **Agent Reliability Audit** — fixed price, about 2 weeks: an eval suite on your data, a baseline, and a ranked list of fixes.
+- **Agent Build Sprint** — fixed price, 4 to 6 weeks: one agent built to an acceptance test agreed in week one.
+- **Reliability Retainer** — monthly: regression checks and reviews as models, prompts, and data change.
+- **Embedded AI Engineering** — hourly or daily rate: a senior engineer or interim lead inside your team.
 
-[See how I work →](engage.qmd)
+[See the offers →](engage.qmd)
 
 ::: {.callout-note}
 ### Behind the company
@@ -59,7 +59,7 @@ Farrukh Nauman, PhD — currently working as an AI engineer, building and evalua
 ## Next step
 
 [Book a call](https://calendar.app.google/sH8s13r8keotW6jf9){.btn .btn-primary}
-[How I work](engage.qmd){.btn .btn-outline-primary}
+[Offers](engage.qmd){.btn .btn-outline-primary}
 [Contact](contact.qmd){.btn .btn-outline-secondary}
 
 Or email: [farrukh.nauman@inertialrange.com](mailto:farrukh.nauman@inertialrange.com)

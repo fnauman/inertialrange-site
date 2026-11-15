@@ -1,63 +1,88 @@
 ---
-title: "Engage"
-subtitle: "How to work with InertialRange Labs AB"
-toc: true
+title: "Offers"
+subtitle: "Four ways to work with InertialRange Labs AB"
+toc: false
 aliases:
   - services.html
 ---
 
-## What I do
+Each offer has a defined result and a contract type. Two are fixed price, one is a monthly retainer, and one is time-based. If you are not sure which one fits, the [table below](#which-one) maps common situations to an offer.
 
-AI engineering & agentic systems · migration assurance · warehouse cost & performance · AI enablement · time series / telemetry ML — all wired to production data platforms (BigQuery, Snowflake, Databricks, Spark, Snowpark, SQL databases).
-
-For detailed write-ups of each area, with worked case studies, see [selected work →](https://fnauman.com/consulting.html) and [writing →](https://fnauman.com) on fnauman.com. This page is about **how to engage**.
-
-## Engagement models & packaged offers
-
-Senior delivery without an open-ended project — sized from a two-week audit to a multi-month interim lead, with scope and acceptance criteria agreed up front.
+## The offers
 
 ::: {.grid}
 
 ::: {.g-col-md-6 .g-col-12}
-#### Hands-on AI engineering
-Embedded principal: I build the thing and write the code — agents, guardrails, evals, tool contracts — alongside your team. Evaluation-first: I prove correctness before I optimize, and show evidence before I ship.
+#### 1 · Agent Reliability Audit
+*Fixed price · about 2 weeks*
+
+**For:** teams with an agent or LLM feature in pilot or production who cannot say how often it is right.
+
+**What I do:** build an evaluation set from your real questions and logs, score the current system on the results it returns, and read the traces to classify why it fails.
+
+**You get:** the eval suite in your repository, a baseline accuracy figure with its uncertainty, a failure breakdown, and a ranked list of fixes.
 :::
 
 ::: {.g-col-md-6 .g-col-12}
-#### 2-week Discovery / Data & Feasibility Audit
-Clarify the use case, assess data readiness, and find the fastest path to value.
+#### 2 · Agent Build Sprint
+*Fixed price · 4 to 6 weeks*
 
-**You leave with:** a data readiness assessment, a prioritized opportunity map (ROI × risk), success metrics and an evaluation approach, a risk register, and recommended next steps.
+**For:** teams that know which agent they want — an analytics agent, Text-to-SQL over the warehouse, a coding-agent workflow for a migration — and need it built and proven.
+
+**What I do:** agree the acceptance test in week one (an eval set and a pass mark), then build to it: grounding, guardrails, tool contracts, evaluation.
+
+**You get:** a working agent in your environment, its results against the agreed pass mark, and a handoff plan for production.
 :::
 
 ::: {.g-col-md-6 .g-col-12}
-#### 4-week Pilot (fixed scope, acceptance criteria)
-Build and validate a pilot against criteria agreed up front.
+#### 3 · Reliability Retainer
+*Monthly fee · a fixed number of days per month*
 
-**You leave with:** acceptance criteria, a working pilot and evaluation results, and a production handoff plan (architecture + next-step roadmap).
+**For:** teams with agents already in use, where models, prompts, and data keep changing.
+
+**What I do:** re-run the eval suite when something changes, review agent changes before they ship, extend the suite as new failures show up, and answer questions as they come.
+
+**You get:** a monthly regression report, reviewed changes, and a senior engineer who already knows your system.
 :::
 
 ::: {.g-col-md-6 .g-col-12}
-#### Fractional / interim lead
-Senior technical leadership for data & AI teams — from 1–2 days/week up to a full interim team-lead engagement (most recently leading a 4–7 person DS & advanced analytics team, Sep 2025 – Jun 2026). Roadmap ownership, stakeholder steering, reviews, unblockers, and delivery accountability.
+#### 4 · Embedded AI Engineering
+*Hourly or daily rate · typically three months or more*
+
+**For:** larger builds, or teams that need a senior engineer or an interim lead inside the team.
+
+**What I do:** join your team and deliver alongside it: agents, data-platform work, migrations with coding agents. When needed I lead the team as well, most recently a 4–7 person data science and analytics team.
+
+**You get:** senior capacity under your own planning, contracted directly or through your consultant broker.
 :::
 
 :::
 
-## How it works
+## Which one? {#which-one}
 
-1. **Intro call** — a short conversation to assess fit and define the problem.
-2. **Scope** — a lightweight proposal with deliverables, timeline, and dependencies.
-3. **Kickoff** — align on success criteria and get access to data/systems.
-4. **Delivery** — weekly check-ins and fast feedback cycles.
-5. **Handoff** — deliverables, documentation, and a clear next-step roadmap.
+| Your situation | Start with |
+|---|---|
+| You have an agent or LLM feature and do not know how reliable it is | Agent Reliability Audit |
+| You know what you want built and need it proven before you commit further | Agent Build Sprint |
+| Your agents are in use, and every model or prompt change is a risk | Reliability Retainer |
+| You need a senior engineer or lead in the team for months | Embedded AI Engineering |
+
+The audit is the usual starting point. Its eval suite becomes the acceptance test for a sprint and the regression suite for a retainer.
+
+## How it starts
+
+1. **Intro call** — you describe the system and the problem.
+2. **Written scope** — deliverables, the price or rate, and what I need from you (data access, a contact person). For the fixed-price offers the acceptance criteria are part of the scope.
+3. **Start** — weekly check-ins, and a written handoff at the end.
 
 ## Practicalities
 
 - **Legal entity:** InertialRange Labs AB (Swedish Aktiebolag) — invoicing in SEK or EUR.
 - **Location & mode:** based in Linköping, Sweden — remote-first across the Nordics and EU, with onsite for kickoffs and key milestones.
-- **Fit:** strongest where there's real data, a real production target, and a stakeholder who wants ownership and evidence — not a strategy deck or a research paper.
+- **Fit:** strongest where there is real data, a real production target, and a stakeholder who wants ownership and evidence — not a strategy deck or a research paper.
 - **Confidentiality:** comfortable working under NDA and within existing security/compliance constraints.
+
+For the work behind these offers, see [selected work →](https://fnauman.com/consulting.html) on fnauman.com.
 
 ## Next step
 

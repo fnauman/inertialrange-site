@@ -1,26 +1,33 @@
 ---
 title: "Contact"
-subtitle: "AI engineering and agentic systems for production data platforms"
+subtitle: "Book a call, or send two lines by email"
 toc: false
 ---
 
 ## Get in touch
 
-Email: [farrukh.nauman@inertialrange.com](mailto:farrukh.nauman@inertialrange.com)
-
-Calendar: [Book a call](https://calendar.app.google/sH8s13r8keotW6jf9)
-
-## What to include in your inquiry
-
-To make the first call productive, please include:
-
-- A short description of your use case and why it matters
-- What outcome you want (and how you’d measure success)
-- Your current state: data availability, systems, and constraints
-- Timeline and key stakeholders
-- Any security / compliance requirements
-
-## Next step
-
 [Book a call](https://calendar.app.google/sH8s13r8keotW6jf9){.btn .btn-primary}
-[How I work](engage.qmd){.btn .btn-outline-primary}
+[Email me](mailto:farrukh.nauman@inertialrange.com){.btn .btn-outline-primary}
+
+Email: [farrukh.nauman@inertialrange.com](mailto:farrukh.nauman@inertialrange.com). I usually reply within 1–2 business days.
+
+## What to send
+
+Two lines are enough to start:
+
+- what you are building or already running, and
+- what you need to know or ship.
+
+If you have them, these also help: where the data lives, your timeline, and any security or compliance requirements.
+
+## What happens next
+
+1. **Intro call** — you describe the system and the problem.
+2. **Written scope** — deliverables, the price or rate, and what I need from you.
+3. **Start** — one of the four [offers](engage.qmd), or a plain answer that none of them fits.
+
+## Company
+
+InertialRange Labs AB (Swedish Aktiebolag), Linköping, Sweden. Invoicing in SEK or EUR. NDAs are fine.
+
+[See the offers](engage.qmd){.btn .btn-outline-primary}

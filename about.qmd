@@ -27,6 +27,6 @@ Running my own company also lets me choose the right engagements — the ones wh
 
 ## Next step
 
-[How I work](engage.qmd){.btn .btn-outline-primary}
+[Offers](engage.qmd){.btn .btn-outline-primary}
 [Book a call](https://calendar.app.google/sH8s13r8keotW6jf9){.btn .btn-primary}
 [Contact](contact.qmd){.btn .btn-outline-secondary}
