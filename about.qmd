@@ -7,11 +7,13 @@ toc: false
 
 InertialRange Labs AB is an AI engineering and data-platform consulting practice run by **Farrukh Nauman, PhD**, registered in Sweden (Aktiebolag) and based in Linköping.
 
-I work as an **AI engineer and principal consultant**: I design and ship agentic systems — Text-to-SQL, coding agents, evaluation harnesses, tool contracts — against real schemas and real data on enterprise platforms (Snowflake, Databricks, Spark, Snowpark, SQL databases). When an engagement needs it, I also take **interim / fractional leadership** of data and AI teams. Across both, the constant is delivery: enforced retrieval, deterministic guardrails, result-level evaluation, and the test discipline that makes agents trustworthy in production.
+I work as an **AI engineer and principal consultant**: I design and ship agentic systems — Text-to-SQL, coding agents, evaluation harnesses, tool contracts — against real schemas and real data on enterprise platforms (BigQuery, Snowflake, Databricks, Spark, Snowpark, SQL databases). When an engagement needs it, I also take **interim / fractional leadership** of data and AI teams. Across both, the constant is delivery: enforced retrieval, deterministic guardrails, result-level evaluation, and the test discipline that makes agents trustworthy in production.
 
 ## Founder
 
-Since August 2025 I've been consulting through InertialRange Labs AB. As part of an ongoing engagement, I serve as **interim team lead for Data Science & Advanced Analytics** (Sep 2025 – Jun 2026) at a global industrial manufacturer, leading a 4–7 person team across telemetry analytics, ML, and GenAI automation — owning the roadmap, stakeholder steering, and technical direction.
+Since August 2025 I've been consulting through InertialRange Labs AB. My current engagement (since November 2026) is as an **AI engineer**: I build AI agents on top of an analytics stack on Google Cloud (BigQuery), and I work on the evaluations and tracing used to improve them.
+
+Before that I served as **interim team lead for Data Science & Advanced Analytics** (Sep 2025 – Jun 2026) at a global industrial manufacturer, leading a 4–7 person team across telemetry analytics, ML, and GenAI automation — owning the roadmap, stakeholder steering, and technical direction.
 
 Before InertialRange, I held AI researcher and consultant roles at RISE Research Institutes of Sweden (Jul 2021 – Aug 2025), where I led a Vinnova-funded applied AI project on circular fashion (**project lead, ~9M SEK**) and contributed as AI lead to the EU CISUTAC initiative (**~2M SEK**). Earlier, I held research positions at Chalmers University of Technology and the Niels Bohr Institute, and completed a PhD in Physics and Astronomy at the University of Rochester.
 

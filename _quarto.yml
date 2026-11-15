@@ -5,7 +5,7 @@ project:
 website:
   title: "InertialRange Labs AB"
   site-url: https://inertialrange.com
-  description: "AI engineering and agentic systems for production data platforms — Snowflake, Databricks, time series ML. Consulting practice of Farrukh Nauman, PhD."
+  description: "AI engineering and agentic systems for production data platforms — BigQuery, Snowflake, Databricks, time series ML. Consulting practice of Farrukh Nauman, PhD."
   favicon: company-logo.png
   image: company-banner.png
   navbar:

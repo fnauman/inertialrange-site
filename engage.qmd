@@ -8,7 +8,7 @@ aliases:
 
 ## What I do
 
-AI engineering & agentic systems · migration assurance · warehouse cost & performance · AI enablement · time series / telemetry ML — all wired to production data platforms (Snowflake, Databricks, Spark, Snowpark, SQL databases).
+AI engineering & agentic systems · migration assurance · warehouse cost & performance · AI enablement · time series / telemetry ML — all wired to production data platforms (BigQuery, Snowflake, Databricks, Spark, Snowpark, SQL databases).
 
 For detailed write-ups of each area, with worked case studies, see [selected work →](https://fnauman.com/consulting.html) and [writing →](https://fnauman.com) on fnauman.com. This page is about **how to engage**.
 
@@ -39,7 +39,7 @@ Build and validate a pilot against criteria agreed up front.
 
 ::: {.g-col-md-6 .g-col-12}
 #### Fractional / interim lead
-Senior technical leadership for data & AI teams — from 1–2 days/week up to a full interim team-lead engagement (currently leading a 4–7 person DS & advanced analytics team). Roadmap ownership, stakeholder steering, reviews, unblockers, and delivery accountability.
+Senior technical leadership for data & AI teams — from 1–2 days/week up to a full interim team-lead engagement (most recently leading a 4–7 person DS & advanced analytics team, Sep 2025 – Jun 2026). Roadmap ownership, stakeholder steering, reviews, unblockers, and delivery accountability.
 :::
 
 :::

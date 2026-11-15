@@ -5,8 +5,8 @@ This is the official website for [InertialRange Labs AB](https://inertialrange.c
 ## About
 
 InertialRange Labs AB provides senior consulting in:
-- Enterprise data platforms (Snowflake, Databricks, Spark, Snowpark)
-- AI coding-agent workflows for migration, validation, and analytics automation
+- AI engineering and agentic systems: agents on analytics data, Text-to-SQL, coding agents, evaluation and tracing
+- Enterprise data platforms (BigQuery, Snowflake, Databricks, Spark, Snowpark)
 - Time series / telemetry ML for industrial production and edge deployment
 - Fractional / interim technical leadership
 
@@ -41,6 +41,8 @@ The generated website will be in the `_site/` directory.
 - `_quarto.yml` - Quarto project configuration
 - `index.qmd` - Home page
 - `about.qmd` - About page
-- `services.qmd` - Services page
-- `styles.css` - Custom CSS styles
+- `engage.qmd` - Engagement models (also served at `services.html`)
+- `contact.qmd` - Contact page
+- `theme.scss` - Theme (palette, typography, cards)
+- `styles.css` - Intentionally empty; styles live in `theme.scss`
 - `_site/` - Generated website (not committed to git)

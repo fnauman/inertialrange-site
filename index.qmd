@@ -7,7 +7,7 @@ toc: false
 
 ## AI engineer & principal consultant — agentic systems that hold up in production
 
-InertialRange Labs AB is the consulting practice of **Farrukh Nauman, PhD**. I design and ship AI-agent systems — Text-to-SQL, coding agents, evaluation harnesses, tool contracts — wired to production data platforms like Snowflake, Databricks, and SQL databases.
+InertialRange Labs AB is the consulting practice of **Farrukh Nauman, PhD**. I design and ship AI-agent systems — Text-to-SQL, coding agents, evaluation harnesses, tool contracts — wired to production data platforms like BigQuery, Snowflake, Databricks, and SQL databases.
 
 I build the thing and write the code, with the test discipline and result-level evaluation that make agents trustworthy in production — not slide decks. When an engagement needs it, I also take **interim / fractional leadership** of data and AI teams.
 
@@ -24,7 +24,7 @@ Cross-platform migration validator — zero to live dashboard (Databricks → Sn
 
 ::: {.g-col-md-4 .g-col-12}
 #### 5–10× faster · 50%+ cheaper
-SQL pipeline optimization with row-level correctness validation.
+Largest daily job rebuilt as a validated incremental pipeline (5–10× faster); overall compute cost down 50%+.
 
 [Case study →](https://fnauman.com/posts/2026-04-07-fast-wrong-is-worse-than-slow-right/index.html)
 :::
@@ -53,7 +53,7 @@ From a two-week audit to a multi-month interim lead — sized to the problem, wi
 
 ::: {.callout-note}
 ### Behind the company
-Farrukh Nauman, PhD — currently interim Data Science & Advanced Analytics team lead at a global industrial manufacturer (Sep 2025 – Jun 2026). Former AI researcher/consultant at RISE Research Institutes of Sweden, and research scientist at the Niels Bohr Institute and Chalmers. [More about the company →](about.qmd)
+Farrukh Nauman, PhD — currently working as an AI engineer, building and evaluating AI agents for analytics on Google Cloud (since Nov 2026). Before that, interim Data Science & Advanced Analytics team lead at a global industrial manufacturer (Sep 2025 – Jun 2026). Former AI researcher/consultant at RISE Research Institutes of Sweden, and research scientist at the Niels Bohr Institute and Chalmers. [More about the company →](about.qmd)
 :::
 
 ## Next step
