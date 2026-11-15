@@ -41,7 +41,7 @@ The generated website will be in the `_site/` directory.
 - `_quarto.yml` - Quarto project configuration
 - `index.qmd` - Home page
 - `about.qmd` - About page
-- `engage.qmd` - Engagement models (also served at `services.html`)
+- `engage.qmd` - Offers (also served at `services.html`)
 - `contact.qmd` - Contact page
 - `theme.scss` - Theme (palette, typography, cards)
 - `styles.css` - Intentionally empty; styles live in `theme.scss`
