@@ -1,92 +1,94 @@
 ---
-title: "Offers"
-subtitle: "Four ways to work with InertialRange Labs AB"
+title: "Choose a starting point"
+subtitle: "Scoped AI engineering engagements with clear deliverables"
+description: "Compare an agent reliability audit, build sprint, reliability retainer, and embedded engineering. Agree deliverables, acceptance criteria, and price before work starts."
 toc: false
 aliases:
   - services.html
 ---
 
-Each offer has a defined result and a contract type. Two are fixed price, one is a monthly retainer, and one is time-based. If you are not sure which one fits, the [table below](#which-one) maps common situations to an offer.
+Start with the decision your team needs to make. If you already have an agent and need to understand its reliability, the audit is a useful first step. If the use case and acceptance criteria are clear, a build sprint can start directly.
 
-## The offers
+## Agent Reliability Audit {#reliability-audit}
 
-::: {.grid}
+**For:** data and AI teams with an analytics agent or LLM workflow in pilot or production who need evidence before expanding its use.
 
-::: {.g-col-md-6 .g-col-12}
-#### 1 · Agent Reliability Audit
-*Fixed price · about 2 weeks*
+**Typical duration:** about two weeks after scope and access are agreed. **Contract:** fixed price, quoted for the agreed workflow and evaluation scope.
 
-**For:** teams with an agent or LLM feature in pilot or production who cannot say how often it is right.
+I review representative questions, expected results, and available traces. We agree what a correct answer means, then measure the current system and investigate the failures.
 
-**What I do:** build an evaluation set from your real questions and logs, score the current system on the results it returns, and read the traces to classify why it fails.
+**You receive:**
 
-**You get:** the eval suite in your repository, a baseline accuracy figure with its uncertainty, a failure breakdown, and a ranked list of fixes.
-:::
+- An evaluation suite in your repository, with scoring rules and instructions for running it.
+- A baseline report with success rates, uncertainty, and the limits of the evaluation sample.
+- A failure breakdown and ranked fixes, reviewed with your team.
 
-::: {.g-col-md-6 .g-col-12}
-#### 2 · Agent Build Sprint
-*Fixed price · 4 to 6 weeks*
+**What I need from you:** access to the agreed workflow and representative data or logs, plus a domain contact who can confirm expected answers. The proposal defines the sample and access requirements; results describe that scope.
 
-**For:** teams that know which agent they want — an analytics agent, Text-to-SQL over the warehouse, a coding-agent workflow for a migration — and need it built and proven.
+[Ask about an audit](mailto:farrukh.nauman@inertialrange.com?subject=InertialRange%20enquiry%3A%20Agent%20Reliability%20Audit&body=What%20we%20are%20building%20or%20running%3A%0A%0AWhat%20we%20need%20help%20with%3A%0A%0APlatform%20and%20timeline%20%28if%20known%29%3A%0A%0AHow%20we%20found%20you%20%28optional%29%3A%0A){.btn .btn-primary}
 
-**What I do:** agree the acceptance test in week one (an eval set and a pass mark), then build to it: grounding, guardrails, tool contracts, evaluation.
+## Agent Build Sprint {#build-sprint}
 
-**You get:** a working agent in your environment, its results against the agreed pass mark, and a handoff plan for production.
-:::
+**For:** teams with one defined workflow to build, such as analytics questions over a warehouse or a coding-agent workflow for a migration.
 
-::: {.g-col-md-6 .g-col-12}
-#### 3 · Reliability Retainer
-*Monthly fee · a fixed number of days per month*
+**Typical duration:** four to six weeks. **Contract:** fixed price for an agreed scope.
 
-**For:** teams with agents already in use, where models, prompts, and data keep changing.
+We define the workflow, integrations, and acceptance criteria before committing to delivery, then finalise the evaluation cases in week one. I build the agent and its tests, review results with your team, and document the remaining limitations. Reserved evaluation cases help distinguish improvements from tuning to known examples.
 
-**What I do:** re-run the eval suite when something changes, review agent changes before they ship, extend the suite as new failures show up, and answer questions as they come.
+**You receive:** a working implementation in your environment, source code and tests, evaluation results, and a production handoff plan. The proposal specifies deployment responsibilities and which integrations are included.
 
-**You get:** a monthly regression report, reviewed changes, and a senior engineer who already knows your system.
-:::
+**What I need from you:** a workflow owner, access to the agreed platform, and representative questions or tasks with expected outcomes. Changes to scope are agreed before additional work begins.
 
-::: {.g-col-md-6 .g-col-12}
-#### 4 · Embedded AI Engineering
-*Hourly or daily rate · typically three months or more*
+[Discuss a build sprint](mailto:farrukh.nauman@inertialrange.com?subject=InertialRange%20enquiry%3A%20Agent%20Build%20Sprint&body=What%20we%20are%20building%20or%20running%3A%0A%0AWhat%20we%20need%20help%20with%3A%0A%0APlatform%20and%20timeline%20%28if%20known%29%3A%0A%0AHow%20we%20found%20you%20%28optional%29%3A%0A){.btn .btn-primary}
 
-**For:** larger builds, or teams that need a senior engineer or an interim lead inside the team.
+## Reliability Retainer {#reliability-retainer}
 
-**What I do:** join your team and deliver alongside it: agents, data-platform work, migrations with coding agents. When needed I lead the team as well, most recently a 4–7 person data science and analytics team.
+**For:** teams with agents already in use, where models, prompts, tools, and data keep changing.
 
-**You get:** senior capacity under your own planning, contracted directly or through your consultant broker.
-:::
+**Contract:** monthly fee for an agreed number of engineering days.
 
-:::
+I re-run evaluations around agreed changes, investigate regressions, review agent changes, and add tests for recurring failures.
 
-## Which one? {#which-one}
+**You receive:** a monthly regression report, reviewed changes, and an updated evaluation suite. We agree the review cadence, capacity, and response expectations in the scope. If there is no baseline suite yet, we scope that setup first.
 
-| Your situation | Start with |
-|---|---|
-| You have an agent or LLM feature and do not know how reliable it is | Agent Reliability Audit |
-| You know what you want built and need it proven before you commit further | Agent Build Sprint |
-| Your agents are in use, and every model or prompt change is a risk | Reliability Retainer |
-| You need a senior engineer or lead in the team for months | Embedded AI Engineering |
+[Discuss ongoing reliability work](mailto:farrukh.nauman@inertialrange.com?subject=InertialRange%20enquiry%3A%20Reliability%20Retainer&body=What%20we%20are%20building%20or%20running%3A%0A%0AWhat%20we%20need%20help%20with%3A%0A%0APlatform%20and%20timeline%20%28if%20known%29%3A%0A%0AHow%20we%20found%20you%20%28optional%29%3A%0A){.btn .btn-primary}
 
-The audit is the usual starting point. Its eval suite becomes the acceptance test for a sprint and the regression suite for a retainer.
+## Embedded AI Engineering {#embedded-engineering}
 
-## How it starts
+**For:** teams that need a senior engineer or interim technical lead for a larger programme of work.
 
-1. **Intro call** — you describe the system and the problem.
-2. **Written scope** — deliverables, the price or rate, and what I need from you (data access, a contact person). For the fixed-price offers the acceptance criteria are part of the scope.
-3. **Start** — weekly check-ins, and a written handoff at the end.
+**Contract:** hourly or daily rate; engagements typically run for three months or more, directly or through your consultant broker.
 
-## Practicalities
+I work inside your team on analytics agents, evaluations, data-platform integration, or migrations with coding agents. When needed, I also take responsibility for technical direction and team coordination.
 
-- **Legal entity:** InertialRange Labs AB (Swedish Aktiebolag) — invoicing in SEK or EUR.
-- **Location & mode:** based in Linköping, Sweden — remote-first across the Nordics and EU, with onsite for kickoffs and key milestones.
-- **Fit:** strongest where there is real data, a real production target, and a stakeholder who wants ownership and evidence — not a strategy deck or a research paper.
-- **Confidentiality:** comfortable working under NDA and within existing security/compliance constraints.
+**You receive:** hands-on delivery under your planning, with agreed responsibilities, milestones, and handover. Relevant experience includes BigQuery, Snowflake, Databricks, and interim leadership of a 4–7 person data science and analytics team.
 
-For the work behind these offers, see [selected work →](https://fnauman.com/consulting.html) on fnauman.com.
+[Discuss embedded engineering](mailto:farrukh.nauman@inertialrange.com?subject=InertialRange%20enquiry%3A%20Embedded%20AI%20Engineering&body=What%20we%20are%20building%20or%20running%3A%0A%0AWhat%20we%20need%20help%20with%3A%0A%0APlatform%20and%20timeline%20%28if%20known%29%3A%0A%0AHow%20we%20found%20you%20%28optional%29%3A%0A){.btn .btn-primary}
 
-## Next step
+## From first conversation to contract
 
-[Book a call](https://calendar.app.google/sH8s13r8keotW6jf9){.btn .btn-primary}
-[Contact](contact.qmd){.btn .btn-outline-secondary}
+1. **Describe the problem.** Send a short brief or book an intro call. We establish fit and the decision or delivery you need.
+2. **Review a written proposal.** Deliverables, acceptance criteria, access requirements, responsibilities, timing, and price or rate are explicit.
+3. **Agree the engagement.** Work starts after the scope and contract are agreed. Fixed-price work is scoped before a price is committed.
+4. **Review delivery together.** Check-ins and a written handoff keep your team able to use and maintain the result.
 
-Or email: [farrukh.nauman@inertialrange.com](mailto:farrukh.nauman@inertialrange.com)
+## Practical questions
+
+### What does it cost?
+
+Audits and sprints are quoted at a fixed price once the workflow, data access, integrations, and acceptance criteria are understood. Retainers specify monthly capacity; embedded work uses an agreed rate. Send a brief to start that discussion.
+
+### Who will do the work?
+
+Farrukh Nauman, the principal consultant behind InertialRange Labs AB. You work directly with the engineer responsible for delivery.
+
+### Can we use our existing platform and procurement process?
+
+Engagements can be contracted directly or through a consultant broker. InertialRange Labs AB is a Swedish Aktiebolag, invoicing in SEK or EUR. Work is remote-first across the Nordics and EU, with onsite kickoffs and milestones when agreed. NDAs and your existing access controls can be included in the engagement setup.
+
+### Can we see relevant work first?
+
+Yes. [Selected work on fnauman.com](https://fnauman.com/consulting.html) includes technical examples and case studies covering analytics agents, migration validation, and pipeline optimisation.
+
+[Send a short brief](contact.qmd#send-a-brief){.btn .btn-primary}
+[Book an intro call](https://calendar.app.google/sH8s13r8keotW6jf9){.btn .btn-outline-primary}
