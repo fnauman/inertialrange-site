@@ -2,134 +2,155 @@
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Contact",
+    "title": "Discuss your project",
     "section": "",
-    "text": "Book a call Email me\nEmail: farrukh.nauman@inertialrange.com. I usually reply within 1–2 business days."
+    "text": "A few lines are enough:\n\nWhat are you building or already running?\nWhat decision, problem, or delivery do you need help with?\nIf known, what platform and timeline are involved?\n\nStart an email with these prompts Book an intro call\nThe email button opens a draft in your mail app. You can also write directly to farrukh.nauman@inertialrange.com. A high-level description is enough for the first conversation."
   },
   {
-    "objectID": "contact.html#get-in-touch",
-    "href": "contact.html#get-in-touch",
-    "title": "Contact",
+    "objectID": "contact.html#send-a-brief",
+    "href": "contact.html#send-a-brief",
+    "title": "Discuss your project",
     "section": "",
-    "text": "Book a call Email me\nEmail: farrukh.nauman@inertialrange.com. I usually reply within 1–2 business days."
-  },
-  {
-    "objectID": "contact.html#what-to-send",
-    "href": "contact.html#what-to-send",
-    "title": "Contact",
-    "section": "What to send",
-    "text": "What to send\nTwo lines are enough to start:\n\nwhat you are building or already running, and\nwhat you need to know or ship.\n\nIf you have them, these also help: where the data lives, your timeline, and any security or compliance requirements."
+    "text": "A few lines are enough:\n\nWhat are you building or already running?\nWhat decision, problem, or delivery do you need help with?\nIf known, what platform and timeline are involved?\n\nStart an email with these prompts Book an intro call\nThe email button opens a draft in your mail app. You can also write directly to farrukh.nauman@inertialrange.com. A high-level description is enough for the first conversation."
   },
   {
     "objectID": "contact.html#what-happens-next",
     "href": "contact.html#what-happens-next",
-    "title": "Contact",
+    "title": "Discuss your project",
     "section": "What happens next",
-    "text": "What happens next\n\nIntro call — you describe the system and the problem.\nWritten scope — deliverables, the price or rate, and what I need from you.\nStart — one of the four offers, or a plain answer that none of them fits."
+    "text": "What happens next\nI usually reply within 1–2 business days with whether the work fits, any questions needed to scope it, and a suggested next step. If there is a fit, we work toward a written proposal with deliverables, acceptance criteria, and price or rate. Work begins after we agree the scope and contract.\nIf you are still choosing a starting point, compare the four offers."
   },
   {
-    "objectID": "contact.html#company",
-    "href": "contact.html#company",
-    "title": "Contact",
-    "section": "Company",
-    "text": "Company\nInertialRange Labs AB (Swedish Aktiebolag), Linköping, Sweden. Invoicing in SEK or EUR. NDAs are fine.\nSee the offers"
+    "objectID": "contact.html#contracting-details",
+    "href": "contact.html#contracting-details",
+    "title": "Discuss your project",
+    "section": "Contracting details",
+    "text": "Contracting details\nInertialRange Labs AB is a Swedish Aktiebolag based in Linköping. Engagements can be contracted directly or through your consultant broker, with invoicing in SEK or EUR. NDAs and access requirements can be agreed during scoping."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "InertialRange Labs AB is an AI engineering and data-platform consulting practice run by Farrukh Nauman, PhD, registered in Sweden (Aktiebolag) and based in Linköping.\nI work as an AI engineer and principal consultant: I design and ship agentic systems — Text-to-SQL, coding agents, evaluation harnesses, tool contracts — against real schemas and real data on enterprise platforms (BigQuery, Snowflake, Databricks, Spark, Snowpark, SQL databases). When an engagement needs it, I also take interim / fractional leadership of data and AI teams. Across both, the constant is delivery: enforced retrieval, deterministic guardrails, result-level evaluation, and the test discipline that makes agents trustworthy in production."
+    "text": "InertialRange Labs AB is an AI engineering and data-platform consulting practice run by Farrukh Nauman, PhD, registered in Sweden (Aktiebolag) and based in Linköping.\nI work as a Senior AI Engineer and principal consultant: I design and ship agentic systems — Text-to-SQL, coding agents, evaluation harnesses, tool contracts — against real schemas and real data on enterprise platforms (BigQuery, Snowflake, Databricks, Spark, Snowpark, SQL databases). When an engagement needs it, I also take interim / fractional leadership of data and AI teams. Across both, I combine implementation with tests that check the answers and behaviour your team depends on."
   },
   {
     "objectID": "about.html#the-company",
     "href": "about.html#the-company",
     "title": "About",
     "section": "",
-    "text": "InertialRange Labs AB is an AI engineering and data-platform consulting practice run by Farrukh Nauman, PhD, registered in Sweden (Aktiebolag) and based in Linköping.\nI work as an AI engineer and principal consultant: I design and ship agentic systems — Text-to-SQL, coding agents, evaluation harnesses, tool contracts — against real schemas and real data on enterprise platforms (BigQuery, Snowflake, Databricks, Spark, Snowpark, SQL databases). When an engagement needs it, I also take interim / fractional leadership of data and AI teams. Across both, the constant is delivery: enforced retrieval, deterministic guardrails, result-level evaluation, and the test discipline that makes agents trustworthy in production."
+    "text": "InertialRange Labs AB is an AI engineering and data-platform consulting practice run by Farrukh Nauman, PhD, registered in Sweden (Aktiebolag) and based in Linköping.\nI work as a Senior AI Engineer and principal consultant: I design and ship agentic systems — Text-to-SQL, coding agents, evaluation harnesses, tool contracts — against real schemas and real data on enterprise platforms (BigQuery, Snowflake, Databricks, Spark, Snowpark, SQL databases). When an engagement needs it, I also take interim / fractional leadership of data and AI teams. Across both, I combine implementation with tests that check the answers and behaviour your team depends on."
   },
   {
     "objectID": "about.html#founder",
     "href": "about.html#founder",
     "title": "About",
     "section": "Founder",
-    "text": "Founder\nSince August 2025 I’ve been consulting through InertialRange Labs AB. My current engagement (since November 2026) is as an AI engineer: I build AI agents on top of an analytics stack on Google Cloud (BigQuery), and I work on the evaluations and tracing used to improve them.\nBefore that I served as interim team lead for Data Science & Advanced Analytics (Sep 2025 – Jun 2026) at a global industrial manufacturer, leading a 4–7 person team across telemetry analytics, ML, and GenAI automation — owning the roadmap, stakeholder steering, and technical direction.\nBefore InertialRange, I held AI researcher and consultant roles at RISE Research Institutes of Sweden (Jul 2021 – Aug 2025), where I led a Vinnova-funded applied AI project on circular fashion (project lead, ~9M SEK) and contributed as AI lead to the EU CISUTAC initiative (~2M SEK). Earlier, I held research positions at Chalmers University of Technology and the Niels Bohr Institute, and completed a PhD in Physics and Astronomy at the University of Rochester.\nFor my detailed profile, writing, and CV, see fnauman.com, and selected work for worked case studies."
+    "text": "Founder\nSince August 2025 I’ve been consulting through InertialRange Labs AB. My current engagement (since November 2026) is as a Senior AI Engineer: I build AI agents on top of an analytics stack on Google Cloud (BigQuery), and I work on the evaluations and tracing used to improve them.\nBefore that I served as interim team lead for Data Science & Advanced Analytics (Sep 2025 – Jun 2026) at a global industrial manufacturer, leading a 4–7 person team across telemetry analytics, ML, and GenAI automation — owning the roadmap, stakeholder steering, and technical direction.\nBefore InertialRange, I held AI researcher and consultant roles at RISE Research Institutes of Sweden (Jul 2021 – Aug 2025), where I led a Vinnova-funded applied AI project on circular fashion (project lead, ~9M SEK) and contributed as AI lead to the EU CISUTAC initiative (~2M SEK). Earlier, I held research positions at Chalmers University of Technology and the Niels Bohr Institute, and completed a PhD in Physics and Astronomy at the University of Rochester.\nFor my detailed profile, writing, and CV, see fnauman.com, and selected work for worked case studies."
   },
   {
     "objectID": "about.html#why-this-company-exists",
     "href": "about.html#why-this-company-exists",
     "title": "About",
     "section": "Why this company exists",
-    "text": "Why this company exists\nMost AI and data-platform initiatives fail for predictable reasons: weak validation, underestimated data readiness, and a gap between prototypes and production. InertialRange exists to remove those failure modes with systematic evaluation, clear scope, and delivery-oriented execution.\nRunning my own company also lets me choose the right engagements — the ones where I can take real ownership and deliver measurable outcomes."
+    "text": "Why this company exists\nInertialRange helps teams connect AI engineering to a concrete delivery decision: what to build, how to test it, and what evidence is needed before rollout. Each engagement combines hands-on implementation or evaluation with a clear scope and a usable handoff.\nRunning my own company also lets me choose the right engagements — the ones where I can take real ownership and deliver measurable outcomes."
   },
   {
     "objectID": "about.html#next-step",
     "href": "about.html#next-step",
     "title": "About",
     "section": "Next step",
-    "text": "Next step\nOffers Book a call Contact"
+    "text": "Next step\nOffers Book an intro call Discuss your project"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "InertialRange Labs AB",
+    "title": "Build AI agents your team can rely on",
     "section": "",
-    "text": "InertialRange Labs AB is the consulting practice of Farrukh Nauman, PhD. I design and ship AI-agent systems — Text-to-SQL, coding agents, evaluation harnesses, tool contracts — wired to production data platforms like BigQuery, Snowflake, Databricks, and SQL databases.\nI build the thing and write the code, with the test discipline and result-level evaluation that make agents trustworthy in production — not slide decks. When an engagement needs it, I also take interim / fractional leadership of data and AI teams.\n\n\n\n\n\nSynthetic Text-to-SQL suite, scored on returned results.\nEssay →\n\n\n\nAgent-built migration validator, from zero to live dashboard.\nCase study →\n\n\n\nLargest daily job 5-10x faster after an agent-driven redesign.\nCase study →\n\n\nFor worked case studies and writing, see fnauman.com · selected work →\n\n\n\nTwo fixed-price offers, a monthly retainer, and time-based delivery.\n\nAgent Reliability Audit — fixed price, about 2 weeks: an eval suite on your data, a baseline, and a ranked list of fixes.\nAgent Build Sprint — fixed price, 4 to 6 weeks: one agent built to an acceptance test agreed in week one.\nReliability Retainer — monthly: regression checks and reviews as models, prompts, and data change.\nEmbedded AI Engineering — hourly or daily rate: a senior engineer or interim lead inside your team.\n\nSee the offers →\n\n\n\n\n\n\nNoteBehind the company\n\n\n\nFarrukh Nauman, PhD — currently working as an AI engineer, building and evaluating AI agents for analytics on Google Cloud (since Nov 2026). Before that, interim Data Science & Advanced Analytics team lead at a global industrial manufacturer (Sep 2025 – Jun 2026). Former AI researcher/consultant at RISE Research Institutes of Sweden, and research scientist at the Niels Bohr Institute and Chalmers. More about the company →"
+    "text": "Your analytics agent needs to answer real business questions, handle your data, and show when its answers can be trusted. I help data and AI teams measure that reliability, fix recurring failures, and build agents against an agreed standard.\nInertialRange Labs AB is the consulting practice of Farrukh Nauman, PhD — Senior AI Engineer and principal consultant, based in Sweden.\nExplore the reliability audit Discuss your project"
   },
   {
-    "objectID": "index.html#ai-engineer-principal-consultant-agentic-systems-that-hold-up-in-production",
-    "href": "index.html#ai-engineer-principal-consultant-agentic-systems-that-hold-up-in-production",
-    "title": "InertialRange Labs AB",
-    "section": "",
-    "text": "InertialRange Labs AB is the consulting practice of Farrukh Nauman, PhD. I design and ship AI-agent systems — Text-to-SQL, coding agents, evaluation harnesses, tool contracts — wired to production data platforms like BigQuery, Snowflake, Databricks, and SQL databases.\nI build the thing and write the code, with the test discipline and result-level evaluation that make agents trustworthy in production — not slide decks. When an engagement needs it, I also take interim / fractional leadership of data and AI teams.\n\n\n\n\n\nSynthetic Text-to-SQL suite, scored on returned results.\nEssay →\n\n\n\nAgent-built migration validator, from zero to live dashboard.\nCase study →\n\n\n\nLargest daily job 5-10x faster after an agent-driven redesign.\nCase study →\n\n\nFor worked case studies and writing, see fnauman.com · selected work →\n\n\n\nTwo fixed-price offers, a monthly retainer, and time-based delivery.\n\nAgent Reliability Audit — fixed price, about 2 weeks: an eval suite on your data, a baseline, and a ranked list of fixes.\nAgent Build Sprint — fixed price, 4 to 6 weeks: one agent built to an acceptance test agreed in week one.\nReliability Retainer — monthly: regression checks and reviews as models, prompts, and data change.\nEmbedded AI Engineering — hourly or daily rate: a senior engineer or interim lead inside your team.\n\nSee the offers →\n\n\n\n\n\n\nNoteBehind the company\n\n\n\nFarrukh Nauman, PhD — currently working as an AI engineer, building and evaluating AI agents for analytics on Google Cloud (since Nov 2026). Before that, interim Data Science & Advanced Analytics team lead at a global industrial manufacturer (Sep 2025 – Jun 2026). Former AI researcher/consultant at RISE Research Institutes of Sweden, and research scientist at the Niels Bohr Institute and Chalmers. More about the company →"
+    "objectID": "index.html#what-do-you-need-to-move-forward",
+    "href": "index.html#what-do-you-need-to-move-forward",
+    "title": "Build AI agents your team can rely on",
+    "section": "What do you need to move forward?",
+    "text": "What do you need to move forward?\n\n\n\nYour situation\nA practical next step\n\n\n\n\nAn agent works in demos, but you need evidence before a rollout\nAgent Reliability Audit: measure answer quality and identify the failures worth fixing first\n\n\nYou have a defined analytics use case and need it built\nAgent Build Sprint: one workflow, an agreed acceptance test, and a working implementation\n\n\nYour agent is in use and changes keep introducing uncertainty\nReliability Retainer: regression checks and reviews as the system evolves\n\n\nYou need engineering delivery or technical leadership inside your team\nEmbedded AI Engineering: hands-on delivery under your planning"
   },
   {
-    "objectID": "index.html#next-step",
-    "href": "index.html#next-step",
-    "title": "InertialRange Labs AB",
-    "section": "Next step",
-    "text": "Next step\nBook a call Offers Contact\nOr email: farrukh.nauman@inertialrange.com"
+    "objectID": "index.html#start-with-a-clear-picture-of-reliability",
+    "href": "index.html#start-with-a-clear-picture-of-reliability",
+    "title": "Build AI agents your team can rely on",
+    "section": "Start with a clear picture of reliability",
+    "text": "Start with a clear picture of reliability\nThe Agent Reliability Audit is a focused, fixed-price engagement, typically about two weeks once access and scope are agreed. It gives your team:\n\nAn evaluation suite built from representative questions and expected results.\nA baseline showing where the agent succeeds, fails, or needs human review.\nA ranked set of fixes, with the evidence behind each recommendation.\n\nYou keep the suite and report. Use them to decide what to fix, what to test further, and whether to proceed with a build or rollout.\nSee the audit scope and deliverables"
+  },
+  {
+    "objectID": "index.html#experience-behind-the-offers",
+    "href": "index.html#experience-behind-the-offers",
+    "title": "Build AI agents your team can rely on",
+    "section": "Experience behind the offers",
+    "text": "Experience behind the offers\n\n\nAnalytics agents\nText-to-SQL against a production ERP, rebuilt as an open-source synthetic example with 400+ regression cases. The suite tests returned answers on that schema.\nRead the technical example →\n\n\nMigration validation\nA Databricks-to-Snowflake validation system, from zero to a live team dashboard in about one week using a coding agent.\nRead the case study →\n\n\nLower operating cost\nA daily pipeline redesign made the largest job 5–10× faster and reduced overall compute cost by more than 50%. Row-level checks caught an incorrect alternative.\nRead the case study →"
+  },
+  {
+    "objectID": "index.html#work-directly-with-the-engineer-delivering-it",
+    "href": "index.html#work-directly-with-the-engineer-delivering-it",
+    "title": "Build AI agents your team can rely on",
+    "section": "Work directly with the engineer delivering it",
+    "text": "Work directly with the engineer delivering it\nI currently build and evaluate analytics agents on Google Cloud (BigQuery) as a Senior AI Engineer. Earlier work includes interim leadership of a 4–7 person data science and analytics team, and applied AI delivery at RISE Research Institutes of Sweden.\nYou work directly with me from the first conversation through implementation and handoff. More about the company →"
+  },
+  {
+    "objectID": "index.html#turn-the-problem-into-a-scope",
+    "href": "index.html#turn-the-problem-into-a-scope",
+    "title": "Build AI agents your team can rely on",
+    "section": "Turn the problem into a scope",
+    "text": "Turn the problem into a scope\nSend a few lines about your system and the decision or delivery you need help with. I will reply with fit, any questions needed to scope the work, and a suggested next step. Pricing and acceptance criteria are agreed in writing before work begins.\nSend a short brief Book an intro call"
   },
   {
     "objectID": "engage.html",
     "href": "engage.html",
-    "title": "Offers",
+    "title": "Choose a starting point",
     "section": "",
-    "text": "Each offer has a defined result and a contract type. Two are fixed price, one is a monthly retainer, and one is time-based. If you are not sure which one fits, the table below maps common situations to an offer."
+    "text": "Start with the decision your team needs to make. If you already have an agent and need to understand its reliability, the audit is a useful first step. If the use case and acceptance criteria are clear, a build sprint can start directly."
   },
   {
-    "objectID": "engage.html#the-offers",
-    "href": "engage.html#the-offers",
-    "title": "Offers",
-    "section": "The offers",
-    "text": "The offers\n\n\n1 · Agent Reliability Audit\nFixed price · about 2 weeks\nFor: teams with an agent or LLM feature in pilot or production who cannot say how often it is right.\nWhat I do: build an evaluation set from your real questions and logs, score the current system on the results it returns, and read the traces to classify why it fails.\nYou get: the eval suite in your repository, a baseline accuracy figure with its uncertainty, a failure breakdown, and a ranked list of fixes.\n\n\n2 · Agent Build Sprint\nFixed price · 4 to 6 weeks\nFor: teams that know which agent they want — an analytics agent, Text-to-SQL over the warehouse, a coding-agent workflow for a migration — and need it built and proven.\nWhat I do: agree the acceptance test in week one (an eval set and a pass mark), then build to it: grounding, guardrails, tool contracts, evaluation.\nYou get: a working agent in your environment, its results against the agreed pass mark, and a handoff plan for production.\n\n\n3 · Reliability Retainer\nMonthly fee · a fixed number of days per month\nFor: teams with agents already in use, where models, prompts, and data keep changing.\nWhat I do: re-run the eval suite when something changes, review agent changes before they ship, extend the suite as new failures show up, and answer questions as they come.\nYou get: a monthly regression report, reviewed changes, and a senior engineer who already knows your system.\n\n\n4 · Embedded AI Engineering\nHourly or daily rate · typically three months or more\nFor: larger builds, or teams that need a senior engineer or an interim lead inside the team.\nWhat I do: join your team and deliver alongside it: agents, data-platform work, migrations with coding agents. When needed I lead the team as well, most recently a 4–7 person data science and analytics team.\nYou get: senior capacity under your own planning, contracted directly or through your consultant broker."
+    "objectID": "engage.html#reliability-audit",
+    "href": "engage.html#reliability-audit",
+    "title": "Choose a starting point",
+    "section": "Agent Reliability Audit",
+    "text": "Agent Reliability Audit\nFor: data and AI teams with an analytics agent or LLM workflow in pilot or production who need evidence before expanding its use.\nTypical duration: about two weeks after scope and access are agreed. Contract: fixed price, quoted for the agreed workflow and evaluation scope.\nI review representative questions, expected results, and available traces. We agree what a correct answer means, then measure the current system and investigate the failures.\nYou receive:\n\nAn evaluation suite in your repository, with scoring rules and instructions for running it.\nA baseline report with success rates, uncertainty, and the limits of the evaluation sample.\nA failure breakdown and ranked fixes, reviewed with your team.\n\nWhat I need from you: access to the agreed workflow and representative data or logs, plus a domain contact who can confirm expected answers. The proposal defines the sample and access requirements; results describe that scope.\nAsk about an audit"
   },
   {
-    "objectID": "engage.html#which-one",
-    "href": "engage.html#which-one",
-    "title": "Offers",
-    "section": "Which one?",
-    "text": "Which one?\n\n\n\n\n\n\n\nYour situation\nStart with\n\n\n\n\nYou have an agent or LLM feature and do not know how reliable it is\nAgent Reliability Audit\n\n\nYou know what you want built and need it proven before you commit further\nAgent Build Sprint\n\n\nYour agents are in use, and every model or prompt change is a risk\nReliability Retainer\n\n\nYou need a senior engineer or lead in the team for months\nEmbedded AI Engineering\n\n\n\nThe audit is the usual starting point. Its eval suite becomes the acceptance test for a sprint and the regression suite for a retainer."
+    "objectID": "engage.html#build-sprint",
+    "href": "engage.html#build-sprint",
+    "title": "Choose a starting point",
+    "section": "Agent Build Sprint",
+    "text": "Agent Build Sprint\nFor: teams with one defined workflow to build, such as analytics questions over a warehouse or a coding-agent workflow for a migration.\nTypical duration: four to six weeks. Contract: fixed price for an agreed scope.\nWe define the workflow, integrations, and acceptance criteria before committing to delivery, then finalise the evaluation cases in week one. I build the agent and its tests, review results with your team, and document the remaining limitations. Reserved evaluation cases help distinguish improvements from tuning to known examples.\nYou receive: a working implementation in your environment, source code and tests, evaluation results, and a production handoff plan. The proposal specifies deployment responsibilities and which integrations are included.\nWhat I need from you: a workflow owner, access to the agreed platform, and representative questions or tasks with expected outcomes. Changes to scope are agreed before additional work begins.\nDiscuss a build sprint"
   },
   {
-    "objectID": "engage.html#how-it-starts",
-    "href": "engage.html#how-it-starts",
-    "title": "Offers",
-    "section": "How it starts",
-    "text": "How it starts\n\nIntro call — you describe the system and the problem.\nWritten scope — deliverables, the price or rate, and what I need from you (data access, a contact person). For the fixed-price offers the acceptance criteria are part of the scope.\nStart — weekly check-ins, and a written handoff at the end."
+    "objectID": "engage.html#reliability-retainer",
+    "href": "engage.html#reliability-retainer",
+    "title": "Choose a starting point",
+    "section": "Reliability Retainer",
+    "text": "Reliability Retainer\nFor: teams with agents already in use, where models, prompts, tools, and data keep changing.\nContract: monthly fee for an agreed number of engineering days.\nI re-run evaluations around agreed changes, investigate regressions, review agent changes, and add tests for recurring failures.\nYou receive: a monthly regression report, reviewed changes, and an updated evaluation suite. We agree the review cadence, capacity, and response expectations in the scope. If there is no baseline suite yet, we scope that setup first.\nDiscuss ongoing reliability work"
   },
   {
-    "objectID": "engage.html#practicalities",
-    "href": "engage.html#practicalities",
-    "title": "Offers",
-    "section": "Practicalities",
-    "text": "Practicalities\n\nLegal entity: InertialRange Labs AB (Swedish Aktiebolag) — invoicing in SEK or EUR.\nLocation & mode: based in Linköping, Sweden — remote-first across the Nordics and EU, with onsite for kickoffs and key milestones.\nFit: strongest where there is real data, a real production target, and a stakeholder who wants ownership and evidence — not a strategy deck or a research paper.\nConfidentiality: comfortable working under NDA and within existing security/compliance constraints.\n\nFor the work behind these offers, see selected work → on fnauman.com."
+    "objectID": "engage.html#embedded-engineering",
+    "href": "engage.html#embedded-engineering",
+    "title": "Choose a starting point",
+    "section": "Embedded AI Engineering",
+    "text": "Embedded AI Engineering\nFor: teams that need a senior engineer or interim technical lead for a larger programme of work.\nContract: hourly or daily rate; engagements typically run for three months or more, directly or through your consultant broker.\nI work inside your team on analytics agents, evaluations, data-platform integration, or migrations with coding agents. When needed, I also take responsibility for technical direction and team coordination.\nYou receive: hands-on delivery under your planning, with agreed responsibilities, milestones, and handover. Relevant experience includes BigQuery, Snowflake, Databricks, and interim leadership of a 4–7 person data science and analytics team.\nDiscuss embedded engineering"
   },
   {
-    "objectID": "engage.html#next-step",
-    "href": "engage.html#next-step",
-    "title": "Offers",
-    "section": "Next step",
-    "text": "Next step\nBook a call Contact\nOr email: farrukh.nauman@inertialrange.com"
+    "objectID": "engage.html#from-first-conversation-to-contract",
+    "href": "engage.html#from-first-conversation-to-contract",
+    "title": "Choose a starting point",
+    "section": "From first conversation to contract",
+    "text": "From first conversation to contract\n\nDescribe the problem. Send a short brief or book an intro call. We establish fit and the decision or delivery you need.\nReview a written proposal. Deliverables, acceptance criteria, access requirements, responsibilities, timing, and price or rate are explicit.\nAgree the engagement. Work starts after the scope and contract are agreed. Fixed-price work is scoped before a price is committed.\nReview delivery together. Check-ins and a written handoff keep your team able to use and maintain the result."
+  },
+  {
+    "objectID": "engage.html#practical-questions",
+    "href": "engage.html#practical-questions",
+    "title": "Choose a starting point",
+    "section": "Practical questions",
+    "text": "Practical questions\n\nWhat does it cost?\nAudits and sprints are quoted at a fixed price once the workflow, data access, integrations, and acceptance criteria are understood. Retainers specify monthly capacity; embedded work uses an agreed rate. Send a brief to start that discussion.\n\n\nWho will do the work?\nFarrukh Nauman, the principal consultant behind InertialRange Labs AB. You work directly with the engineer responsible for delivery.\n\n\nCan we use our existing platform and procurement process?\nEngagements can be contracted directly or through a consultant broker. InertialRange Labs AB is a Swedish Aktiebolag, invoicing in SEK or EUR. Work is remote-first across the Nordics and EU, with onsite kickoffs and milestones when agreed. NDAs and your existing access controls can be included in the engagement setup.\n\n\nCan we see relevant work first?\nYes. Selected work on fnauman.com includes technical examples and case studies covering analytics agents, migration validation, and pipeline optimisation.\nSend a short brief Book an intro call"
   }
 ]
