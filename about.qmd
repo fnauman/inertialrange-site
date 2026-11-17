@@ -7,11 +7,11 @@ toc: false
 
 InertialRange Labs AB is an AI engineering and data-platform consulting practice run by **Farrukh Nauman, PhD**, registered in Sweden (Aktiebolag) and based in Linköping.
 
-I work as an **Senior AI Engineer and principal consultant**: I design and ship agentic systems — Text-to-SQL, coding agents, evaluation harnesses, tool contracts — against real schemas and real data on enterprise platforms (BigQuery, Snowflake, Databricks, Spark, Snowpark, SQL databases). When an engagement needs it, I also take **interim / fractional leadership** of data and AI teams. Across both, I combine implementation with tests that check the answers and behaviour your team depends on.
+I work as a **Senior AI Engineer and principal consultant**: I design and ship agentic systems — Text-to-SQL, coding agents, evaluation harnesses, tool contracts — against real schemas and real data on enterprise platforms (BigQuery, Snowflake, Databricks, Spark, Snowpark, SQL databases). When an engagement needs it, I also take **interim / fractional leadership** of data and AI teams. Across both, I combine implementation with tests that check the answers and behaviour your team depends on.
 
 ## Founder
 
-Since August 2025 I've been consulting through InertialRange Labs AB. My current engagement (since November 2026) is as an **Senior AI Engineer**: I build AI agents on top of an analytics stack on Google Cloud (BigQuery), and I work on the evaluations and tracing used to improve them.
+Since August 2025 I've been consulting through InertialRange Labs AB. My current engagement (since November 2026) is as a **Senior AI Engineer**: I build AI agents on top of an analytics stack on Google Cloud (BigQuery), and I work on the evaluations and tracing used to improve them.
 
 Before that I served as **interim team lead for Data Science & Advanced Analytics** (Sep 2025 – Jun 2026) at a global industrial manufacturer, leading a 4–7 person team across telemetry analytics, ML, and GenAI automation — owning the roadmap, stakeholder steering, and technical direction.
 
