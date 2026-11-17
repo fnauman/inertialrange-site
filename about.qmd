@@ -15,7 +15,7 @@ Since August 2025 I've been consulting through InertialRange Labs AB. My current
 
 Before that I served as **interim team lead for Data Science & Advanced Analytics** (Sep 2025 – Jun 2026) at a global industrial manufacturer, leading a 4–7 person team across telemetry analytics, ML, and GenAI automation — owning the roadmap, stakeholder steering, and technical direction.
 
-Before InertialRange, I held AI researcher and consultant roles at RISE Research Institutes of Sweden (Jul 2021 – Aug 2025), where I led a Vinnova-funded applied AI project on circular fashion (**project lead, ~9M SEK**) and contributed as AI lead to the EU CISUTAC initiative (**~2M SEK**). Earlier, I held research positions at Chalmers University of Technology and the Niels Bohr Institute, and completed a PhD in Physics and Astronomy at the University of Rochester.
+Before InertialRange, I held AI researcher and consultant roles at RISE Research Institutes of Sweden (Jul 2021 – Aug 2025), where I led a Vinnova-funded applied AI project on circular fashion (**project lead, ~9M SEK**) and contributed as AI lead to the EU CISUTAC initiative (**~2M SEK**). Earlier, I held research positions at the Niels Bohr Institute and the University of Rochester, where I also completed a PhD in Physics and Astronomy.
 
 For my detailed profile, writing, and CV, see [fnauman.com](https://fnauman.com), and [selected work](https://fnauman.com/consulting.html) for worked case studies.
 
