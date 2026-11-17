@@ -1,33 +1,29 @@
 ---
-title: "Contact"
-subtitle: "Book a call, or send two lines by email"
+title: "Discuss your project"
+subtitle: "Start with the problem you need to solve"
+description: "Send a short project brief to InertialRange Labs AB or book an intro call. Get a suggested next step toward a scoped AI engineering engagement."
 toc: false
 ---
 
-## Get in touch
+## Send a brief {#send-a-brief}
 
-[Book a call](https://calendar.app.google/sH8s13r8keotW6jf9){.btn .btn-primary}
-[Email me](mailto:farrukh.nauman@inertialrange.com){.btn .btn-outline-primary}
+A few lines are enough:
 
-Email: [farrukh.nauman@inertialrange.com](mailto:farrukh.nauman@inertialrange.com). I usually reply within 1–2 business days.
+- What are you building or already running?
+- What decision, problem, or delivery do you need help with?
+- If known, what platform and timeline are involved?
 
-## What to send
+[Start an email with these prompts](mailto:farrukh.nauman@inertialrange.com?subject=InertialRange%20enquiry%3A%20Project%20brief&body=What%20we%20are%20building%20or%20running%3A%0A%0AWhat%20we%20need%20help%20with%3A%0A%0APlatform%20and%20timeline%20%28if%20known%29%3A%0A%0AHow%20we%20found%20you%20%28optional%29%3A%0A){.btn .btn-primary}
+[Book an intro call](https://calendar.app.google/sH8s13r8keotW6jf9){.btn .btn-outline-primary}
 
-Two lines are enough to start:
-
-- what you are building or already running, and
-- what you need to know or ship.
-
-If you have them, these also help: where the data lives, your timeline, and any security or compliance requirements.
+The email button opens a draft in your mail app. You can also write directly to **[farrukh.nauman@inertialrange.com](mailto:farrukh.nauman@inertialrange.com)**. A high-level description is enough for the first conversation.
 
 ## What happens next
 
-1. **Intro call** — you describe the system and the problem.
-2. **Written scope** — deliverables, the price or rate, and what I need from you.
-3. **Start** — one of the four [offers](engage.qmd), or a plain answer that none of them fits.
+I usually reply within 1–2 business days with whether the work fits, any questions needed to scope it, and a suggested next step. If there is a fit, we work toward a written proposal with deliverables, acceptance criteria, and price or rate. Work begins after we agree the scope and contract.
 
-## Company
+If you are still choosing a starting point, [compare the four offers](engage.qmd).
 
-InertialRange Labs AB (Swedish Aktiebolag), Linköping, Sweden. Invoicing in SEK or EUR. NDAs are fine.
+## Contracting details
 
-[See the offers](engage.qmd){.btn .btn-outline-primary}
+InertialRange Labs AB is a Swedish Aktiebolag based in Linköping. Engagements can be contracted directly or through your consultant broker, with invoicing in SEK or EUR. NDAs and access requirements can be agreed during scoping.

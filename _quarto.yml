@@ -5,9 +5,10 @@ project:
 website:
   title: "InertialRange Labs AB"
   site-url: https://inertialrange.com
-  description: "AI engineering and agentic systems for production data platforms — BigQuery, Snowflake, Databricks, time series ML. Consulting practice of Farrukh Nauman, PhD."
+  description: "AI agent evaluation and engineering for enterprise analytics. Scoped audits, build sprints, and embedded delivery from InertialRange Labs AB."
   favicon: company-logo.png
   image: company-banner.png
+  open-graph: true
   navbar:
     background: dark
     logo: company-logo.png
@@ -19,7 +20,7 @@ website:
       - href: engage.qmd
         text: Offers
       - href: contact.qmd
-        text: Contact
+        text: Discuss a project
   page-footer:
     center: |
       © 2026 InertialRange Labs AB · [fnauman.com](https://fnauman.com) · [LinkedIn](https://www.linkedin.com/in/fnauman/) · [GitHub](https://github.com/fnauman)

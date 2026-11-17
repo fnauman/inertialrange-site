@@ -1,65 +1,70 @@
 ---
-pagetitle: "InertialRange Labs AB — AI Engineering · Production Data Platforms · Time Series ML"
-title: "InertialRange Labs AB"
-subtitle: "AI Engineering · Production Data Platforms · Time Series ML"
+pagetitle: "AI Agent Evaluation & Engineering | InertialRange Labs AB"
+title: "Build AI agents your team can rely on"
+subtitle: "Agent evaluation and engineering for enterprise analytics"
 toc: false
 ---
 
-## AI engineer & principal consultant — agentic systems that hold up in production
+Your analytics agent needs to answer real business questions, handle your data, and show when its answers can be trusted. I help data and AI teams measure that reliability, fix recurring failures, and build agents against an agreed standard.
 
-InertialRange Labs AB is the consulting practice of **Farrukh Nauman, PhD**. I design and ship AI-agent systems — Text-to-SQL, coding agents, evaluation harnesses, tool contracts — wired to production data platforms like BigQuery, Snowflake, Databricks, and SQL databases.
+InertialRange Labs AB is the consulting practice of **Farrukh Nauman, PhD — Senior AI Engineer and principal consultant**, based in Sweden.
 
-I build the thing and write the code, with the test discipline and result-level evaluation that make agents trustworthy in production — not slide decks. When an engagement needs it, I also take **interim / fractional leadership** of data and AI teams.
+[Explore the reliability audit](engage.qmd#reliability-audit){.btn .btn-primary}
+[Discuss your project](contact.qmd){.btn .btn-outline-primary}
 
-### Recent outcomes
+## What do you need to move forward?
+
+| Your situation | A practical next step |
+|---|---|
+| An agent works in demos, but you need evidence before a rollout | [Agent Reliability Audit](engage.qmd#reliability-audit): measure answer quality and identify the failures worth fixing first |
+| You have a defined analytics use case and need it built | [Agent Build Sprint](engage.qmd#build-sprint): one workflow, an agreed acceptance test, and a working implementation |
+| Your agent is in use and changes keep introducing uncertainty | [Reliability Retainer](engage.qmd#reliability-retainer): regression checks and reviews as the system evolves |
+| You need engineering delivery or technical leadership inside your team | [Embedded AI Engineering](engage.qmd#embedded-engineering): hands-on delivery under your planning |
+
+## Start with a clear picture of reliability
+
+The **Agent Reliability Audit** is a focused, fixed-price engagement, typically about two weeks once access and scope are agreed. It gives your team:
+
+- An evaluation suite built from representative questions and expected results.
+- A baseline showing where the agent succeeds, fails, or needs human review.
+- A ranked set of fixes, with the evidence behind each recommendation.
+
+You keep the suite and report. Use them to decide what to fix, what to test further, and whether to proceed with a build or rollout.
+
+[See the audit scope and deliverables](engage.qmd#reliability-audit){.btn .btn-primary}
+
+## Experience behind the offers
 
 ::: {.grid .outcomes}
-
 ::: {.g-col-md-4 .g-col-12}
-#### 400+ regression cases
-Synthetic Text-to-SQL suite, scored on returned results.
+#### Analytics agents
+Text-to-SQL against a production ERP, rebuilt as an open-source synthetic example with **400+ regression cases**. The suite tests returned answers on that schema.
 
-[Essay →](https://fnauman.com/posts/2026-06-28-text-to-sql-real-erp/index.html)
+[Read the technical example →](https://fnauman.com/posts/2026-06-28-text-to-sql-real-erp/index.html)
 :::
-
 ::: {.g-col-md-4 .g-col-12}
-#### ~1 week
-Agent-built migration validator, from zero to live dashboard.
+#### Migration validation
+A Databricks-to-Snowflake validation system, from zero to a live team dashboard in **about one week** using a coding agent.
 
-[Case study →](https://fnauman.com/posts/2026-04-01-validating-a-data-platform-migration-with-an-ai-coding-agent/index.html)
+[Read the case study →](https://fnauman.com/posts/2026-04-01-validating-a-data-platform-migration-with-an-ai-coding-agent/index.html)
 :::
-
 ::: {.g-col-md-4 .g-col-12}
-#### 50%+ lower compute cost
-Largest daily job 5-10x faster after an agent-driven redesign.
+#### Lower operating cost
+A daily pipeline redesign made the largest job **5–10× faster** and reduced **overall compute cost by more than 50%**. Row-level checks caught an incorrect alternative.
 
-[Case study →](https://fnauman.com/posts/2026-04-07-fast-wrong-is-worse-than-slow-right/index.html)
+[Read the case study →](https://fnauman.com/posts/2026-04-07-fast-wrong-is-worse-than-slow-right/index.html)
+:::
 :::
 
-:::
+## Work directly with the engineer delivering it
 
-For worked case studies and writing, see [fnauman.com](https://fnauman.com) · [selected work →](https://fnauman.com/consulting.html)
+I currently build and evaluate analytics agents on Google Cloud (BigQuery) as a Senior AI Engineer. Earlier work includes interim leadership of a 4–7 person data science and analytics team, and applied AI delivery at RISE Research Institutes of Sweden.
 
-### Offers
+You work directly with me from the first conversation through implementation and handoff. [More about the company →](about.qmd)
 
-Two fixed-price offers, a monthly retainer, and time-based delivery.
+## Turn the problem into a scope
 
-- **Agent Reliability Audit** — fixed price, about 2 weeks: an eval suite on your data, a baseline, and a ranked list of fixes.
-- **Agent Build Sprint** — fixed price, 4 to 6 weeks: one agent built to an acceptance test agreed in week one.
-- **Reliability Retainer** — monthly: regression checks and reviews as models, prompts, and data change.
-- **Embedded AI Engineering** — hourly or daily rate: a senior engineer or interim lead inside your team.
+Send a few lines about your system and the decision or delivery you need help with. I will reply with fit, any questions needed to scope the work, and a suggested next step. Pricing and acceptance criteria are agreed in writing before work begins.
 
-[See the offers →](engage.qmd)
-
-::: {.callout-note}
-### Behind the company
-Farrukh Nauman, PhD — currently working as an AI engineer, building and evaluating AI agents for analytics on Google Cloud (since Nov 2026). Before that, interim Data Science & Advanced Analytics team lead at a global industrial manufacturer (Sep 2025 – Jun 2026). Former AI researcher/consultant at RISE Research Institutes of Sweden, and research scientist at the Niels Bohr Institute and Chalmers. [More about the company →](about.qmd)
-:::
-
-## Next step
-
-[Book a call](https://calendar.app.google/sH8s13r8keotW6jf9){.btn .btn-primary}
-[Offers](engage.qmd){.btn .btn-outline-primary}
-[Contact](contact.qmd){.btn .btn-outline-secondary}
-
-Or email: [farrukh.nauman@inertialrange.com](mailto:farrukh.nauman@inertialrange.com)
+[Send a short brief](contact.qmd#send-a-brief){.btn .btn-primary}
+[Book an intro call](https://calendar.app.google/sH8s13r8keotW6jf9){.btn .btn-outline-primary}
